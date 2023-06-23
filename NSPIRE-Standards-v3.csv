@@ -1,0 +1,907 @@
+﻿NSPIRE Standards v3.0,,,,,,,
+Field Definitions/Descriptions: https://www.hud.gov/program_offices/public_indian_housing/reac/nspire/standards ,,,,,,,
+Questions/Comments/Feedback: NSPIRE@hud.gov,,,,,,,
+,,,,,,,
+Area,Item,Deficiency,Criteria,H&S,Correction Timeframe,HCV Pass/Fail,HCV Correction Timeframe
+Outside,Address and Signage,"Address, signage, or building identification codes are broken, illegible, or not visible.","Address or building identification codes are broken, illegible, or not visible.",Moderate,30 days,Fail,30 days
+Unit,Bathtub and Shower ,Only 1 bathtub or shower is present and it is inoperable or does not drain.,"Only 1 bathtub or shower is present within the Unit and it is inoperable (i.e., overall system is not meeting function or purpose; with or without visible damage) or standing water is present such that the inspector believes water is unable to drain.",Severe,24 hours,Fail,30 days
+Inside,Bathtub and Shower ,Only 1 bathtub or shower is present and it is inoperable or does not drain.,"Only 1 bathtub or shower is present within the Inside and it is inoperable (i.e., overall system is not meeting function or purpose; with or without visible damage) or standing water is present such that the inspector believes water is unable to drain.",Low,60 days,Pass,N/A
+Unit,Bathtub and Shower ,A bathtub or shower is inoperable or does not drain and at least 1 bathtub or shower is present elsewhere that is operational. ,"A bathtub or shower is inoperable (i.e., overall system is not meeting function or purpose; with or without visible damage) or standing water is present such that the inspector believes water is unable to drain and at least 1 bathtub or shower is present elsewhere within the Unit that is operational. ",Moderate,30 days,Fail,30 days
+Inside,Bathtub and Shower ,A bathtub or shower is inoperable or does not drain and at least 1 bathtub or shower is present elsewhere that is operational. ,"A bathtub or shower is inoperable (i.e., overall system is not meeting function or purpose; with or without visible damage) or standing water is present such that the inspector believes water is unable to drain and at least 1 bathtub or shower is present elsewhere within the Inside that is operational. ",Low,60 days,Pass,N/A
+Unit,Bathtub and Shower ,"Bathtub component or shower component is damaged, inoperable, or missing such that it may limit the resident's ability to maintain personal hygiene.","Bathtub component or shower component is damaged (i.e., visibly defective; impacts functionality) such that it may limit the resident's ability to maintain personal hygiene. 
+OR 
+Bathtub component or shower component is inoperable (i.e., component is not meeting function or purpose, with or without visible damage) such that it may limit the resident's ability to maintain personal hygiene. 
+OR 
+Bathtub component or shower component is missing (i.e., evidence of prior installation, but is now not present or is incomplete) such that it may limit the resident's ability to maintain personal hygiene.",Moderate,30 days,Fail,30 days
+Inside,Bathtub and Shower ,"Bathtub component or shower component is damaged, inoperable, or missing such that it may limit the resident's ability to maintain personal hygiene.","Bathtub component or shower component is damaged (i.e., visibly defective; impacts functionality) such that it may limit the resident's ability to maintain personal hygiene. 
+OR 
+Bathtub component or shower component is inoperable (i.e., component is not meeting function or purpose, with or without visible damage) such that it may limit the resident's ability to maintain personal hygiene. 
+OR 
+Bathtub component or shower component is missing (i.e., evidence of prior installation, but is now not present or is incomplete) such that it may limit the resident's ability to maintain personal hygiene.",Low,60 days,Pass,N/A
+Unit,Bathtub and Shower ,"Bathtub component or shower component is damaged, inoperable, or missing and it does not limit the resident's ability to maintain personal hygiene. ","Bathtub component or shower component is damaged (i.e., visibly defective; impacts functionality) and it does not limit the resident's ability to maintain personal hygiene. 
+OR 
+Bathtub component or shower component is inoperable (i.e., component is not meeting function or purpose, with or without visible damage) and it does not limit the resident's ability to maintain personal hygiene. 
+OR 
+Bathtub component or shower component is missing (i.e., evidence of prior installation, but is now not present or is incomplete) and it does not limit the resident's ability to maintain personal hygiene.",Low,60 days,Pass,N/A
+Unit,Bathtub and Shower ,Bathtub or shower cannot be used in private.,Bathtub or shower cannot be used in private. ,Moderate,30 days,Fail,30 days
+Inside,Bathtub and Shower ,Bathtub or shower cannot be used in private.,Bathtub or shower cannot be used in private. ,Moderate,30 days,Fail,30 days
+Unit,Cabinet and Storage,Food storage space is not present. ,Food storage space is not present. ,Moderate,30 days,Fail,30 days
+Unit,Cabinet and Storage,"Storage component is damaged, inoperable, or missing.","50% or more of the kitchen, bath, or laundry cabinet, drawers, or shelves are damaged (i.e., visibly defective; impacts functionality). 
+OR 
+50% or more of the kitchen, bath, or laundry cabinet, drawers, or shelves are inoperable (i.e., overall system or component thereof is not meeting function or purpose; with or without visible damage).
+OR 
+50% or more of the kitchen, bath, or laundry cabinet, drawers, or shelves are missing (i.e., evidence of prior installation, but now not present or is incomplete). ",Moderate,30 days,Fail,30 days
+Inside,Cabinet and Storage,"Storage component is damaged, inoperable, or missing.","50% or more of the kitchen, bath, or laundry cabinet, drawers, or shelves are damaged (i.e., visibly defective; impacts functionality). 
+OR 
+50% or more of the kitchen, bath, or laundry cabinet, drawers, or shelves are inoperable (i.e., overall system or component thereof is not meeting function or purpose; with or without visible damage).
+OR 
+50% or more of the kitchen, bath, or laundry cabinet, drawers, or shelves are missing (i.e., evidence of prior installation, but now not present or is incomplete). ",Low,60 days,Pass,N/A
+Unit,Call-for-Aid System,"System is blocked, or pull cord is higher than 6 inches off the floor. ","System is blocked.
+OR
+Pull cord end is higher than 6 inches off the floor.",Life-Threatening,24 hours,Fail,24 hours
+Inside,Call-for-Aid System,"System is blocked, or pull cord is higher than 6 inches off the floor. ","System is blocked.
+OR
+Pull cord end is higher than 6 inches off the floor.",Life-Threatening,24 hours,Fail,24 hours
+Unit,Call-for-Aid System,System does not function properly.,"A call-for-aid system does not emit sound or light or send a signal to the annunciator. 
+OR
+The annunciator does not indicate the correct corresponding room.
+OR
+Pull cord is missing.
+OR
+Pull cord is tied up such that it cannot be engaged. ",Life-Threatening,24 hours,Fail,24 hours
+Inside,Call-for-Aid System,System does not function properly.,"A call-for-aid system does not emit sound or light or send a signal to the annunciator. 
+OR
+The annunciator does not indicate the correct corresponding room.
+OR
+Pull cord is missing.
+OR
+Pull cord is tied up such that it cannot be engaged. ",Life-Threatening,24 hours,Fail,24 hours
+Unit,Carbon Monoxide Alarm,"Carbon monoxide alarm is missing, not installed, or not installed in a proper location.","One (1) or more of the following scenarios exists:
+     1. Unit contains a fuel-burning appliance or fuel-burning fireplace, and a carbon monoxide alarm is not installed:
+               a. in the immediate vicinity of each bedroom. 
+     OR
+               b. within each bedroom.
+     
+     2. Bedroom or bathroom attached to bedroom:
+               a. contains a fuel-burning appliance or fuel-burning fireplace.
+     OR
+               b. has adjacent spaces from which byproducts of combustion gases can flow.
+     AND
+               c. Carbon monoxide alarm is not installed in each bedroom. 
+
+     3. Unit or bedroom is served by a forced-air furnace that is located elsewhere and a carbon monoxide alarm is not installed:
+               a. in the immediate vicinity of each bedroom. 
+     OR
+               b. within each bedroom.
+     OR
+               c. within the room or area with the first duct register and the carbon monoxide alarm signals are automatically transmitted to an approved location.
+
+     4. Unit or bedroom is located in a building that contains a fuel-burning appliance or fuel-burning fireplace and:
+               a. a carbon monoxide alarm is not installed in an approved location between the fuel-burning appliance or fuel-burning fireplace and the Unit or bedroom.
+     OR
+               b. a carbon monoxide alarm is not installed on the ceiling of the room containing the fuel-burning appliance or fuel-burning fireplace.
+     OR
+               c. the Unit or bedroom has communicated openings to the fuel-burning appliance or fuel-burning fireplace and a carbon monoxide alarm is not installed: 
+                         i. in the immediate vicinity of each bedroom.
+     OR
+                         ii. within each bedroom.
+
+     5. Unit or bedroom is located one (1) story or less above or below an attached private garage that:
+               a. does not have natural ventilation.
+     OR
+               b. is enclosed and does not have a ventilation system for vehicle exhaust. 
+     AND
+               c. Carbon monoxide alarm is not installed:
+                         i. in the immediate vicinity of each bedroom.
+     OR
+                         ii. within each bedroom.",Life-Threatening,24 hours,Fail,24 hours
+Unit,Carbon Monoxide Alarm,Carbon monoxide alarm is obstructed.,Carbon monoxide alarm is obstructed,Life-Threatening,24 hours,Fail,24 hours
+Inside,Carbon Monoxide Alarm,Carbon monoxide alarm is obstructed.,Carbon monoxide alarm is obstructed,Life-Threatening,24 hours,Fail,24 hours
+Unit,Carbon Monoxide Alarm,Carbon monoxide alarm does not produce audio or visual alarm when tested.,Carbon monoxide alarm does not produce an audio or visual alarm when tested.,Life-Threatening,24 hours,Fail,24 hours
+Inside,Carbon Monoxide Alarm,Carbon monoxide alarm does not produce audio or visual alarm when tested.,Carbon monoxide alarm does not produce an audio or visual alarm when tested.,Life-Threatening,24 hours,Fail,24 hours
+Unit,Ceiling,Ceiling has an unstable surface.,"Ceiling has an unstable surface.
+OR
+There is cracking or small circles or blisters (e.g., nail pops) on the ceiling (which are a sign the plasterboard sheeting may be pulling away from the nails or screws).",Moderate,30 days,Fail,30 days
+Inside,Ceiling,Ceiling has an unstable surface.,"Ceiling has an unstable surface.
+OR
+There is cracking or small circles or blisters (e.g., nail pops) on the ceiling (which are a sign the plasterboard sheeting may be pulling away from the nails or screws).",Moderate,30 days,Fail,30 days
+Unit,Ceiling,Ceiling has a hole.,"A hole is present that opens directly to the outside environment.
+OR
+A hole is present that is 2 inches or greater in diameter.",Moderate,30 days,Fail,30 days
+Inside,Ceiling,Ceiling has a hole.,"A hole is present that opens directly to the outside environment.
+OR
+A hole is present that is 2 inches or greater in diameter.",Moderate,30 days,Fail,30 days
+Unit,Ceiling,Ceiling component(s) is not functionally adequate. ,"Ceiling component(s) is not functionally adequate (i.e., does not allow ceiling to enclose a room, protect shaft or circulation space, create enclosure of and separation between spaces, control the diffusion of light and sound around a room). ",Severe,24 hours,Fail,30 days
+Inside,Ceiling,Ceiling component(s) is not functionally adequate. ,"Ceiling component(s) is not functionally adequate (i.e., does not allow ceiling to enclose a room, protect shaft or circulation space, create enclosure of and separation between spaces, control the diffusion of light and sound around a room). ",Severe,24 hours,Fail,30 days
+Unit,Chimney,"A visually accessible chimney, flue, or firebox connected to a fireplace or wood-burning appliance is incomplete or damaged such that it may not safely contain fire and convey smoke and combustion gases to the exterior.","A visually accessible (i.e., can be reasonably accessed and observed) chimney, flue, or firebox connected to a fireplace or wood-burning appliance is incomplete (i.e., evidence of a previously installed component that is now not present) such that it may not safely contain fire and convey smoke and combustion gases to the exterior.
+OR
+A visually accessible (i.e., can be reasonably accessed and observed) chimney, flue, or firebox connected to a fireplace or wood-burning appliance is damaged (i.e., visibly defective; impacts functionality) such that it may not safely contain fire and convey smoke and combustion gases to the exterior.",Life-Threatening,24 hours,Fail,24 hours
+Inside,Chimney,"A visually accessible chimney, flue, or firebox connected to a fireplace or wood-burning appliance is incomplete or damaged such that it may not safely contain fire and convey smoke and combustion gases to the exterior.","A visually accessible (i.e., can be reasonably accessed and observed) chimney, flue, or firebox connected to a fireplace or wood-burning appliance is incomplete (i.e., evidence of a previously installed component that is now not present) such that it may not safely contain fire and convey smoke and combustion gases to the exterior.
+OR
+A visually accessible (i.e., can be reasonably accessed and observed) chimney, flue, or firebox connected to a fireplace or wood-burning appliance is damaged (i.e., visibly defective; impacts functionality) such that it may not safely contain fire and convey smoke and combustion gases to the exterior.",Life-Threatening,24 hours,Fail,24 hours
+Outside,Chimney,"A visually accessible chimney, flue, or firebox connected to a fireplace or wood-burning appliance is incomplete or damaged such that it may not safely contain fire and convey smoke and combustion gases to the exterior.","A visually accessible (i.e., can be reasonably accessed and observed) chimney, flue, or firebox connected to a fireplace or wood-burning appliance is incomplete (i.e., evidence of a previously installed component that is now not present) such that it may not safely contain fire and convey smoke and combustion gases to the exterior.
+OR
+A visually accessible (i.e., can be reasonably accessed and observed) chimney, flue, or firebox connected to a fireplace or wood-burning appliance is damaged (i.e., visibly defective; impacts functionality) such that it may not safely contain fire and convey smoke and combustion gases to the exterior.",Life-Threatening,24 hours,Fail,24 hours
+Outside,Chimney,Chimney exhibits signs of structural failure.,The chimney exhibits signs of structural failure such that the integrity of the chimney is jeopardized.,Life-Threatening,24 hours,Fail,24 hours
+Unit,Clothes Dryer Exhaust Ventilation,Electric dryer transition duct is detached or missing.,"Electric dryer transition duct is detached or missing (i.e., evidence of prior installation, but is now not present or is incomplete).",Life-Threatening,24 hours,Fail,24 hours
+Inside,Clothes Dryer Exhaust Ventilation,Electric dryer transition duct is detached or missing.,"Electric dryer transition duct is detached or missing (i.e., evidence of prior installation, but is now not present or is incomplete).",Life-Threatening,24 hours,Fail,24 hours
+Unit,Clothes Dryer Exhaust Ventilation,Gas dryer transition duct is detached or missing.,"Gas dryer transition duct is detached or missing (i.e., evidence of prior installation, but is now not present or is incomplete).",Life-Threatening,24 hours,Fail,24 hours
+Inside,Clothes Dryer Exhaust Ventilation,Gas dryer transition duct is detached or missing.,"Gas dryer transition duct is detached or missing (i.e., evidence of prior installation, but is now not present or is incomplete). ",Life-Threatening,24 hours,Fail,24 hours
+Unit,Clothes Dryer Exhaust Ventilation,Electric dryer exhaust ventilation system has restricted airflow.,Electric dryer exhaust ventilation system is blocked or damaged such that airflow may be restricted.,Life-Threatening,24 hours,Fail,24 hours
+Inside,Clothes Dryer Exhaust Ventilation,Electric dryer exhaust ventilation system has restricted airflow.,Electric dryer exhaust ventilation system is blocked or damaged such that airflow may be restricted.,Life-Threatening,24 hours,Fail,24 hours
+Outside,Clothes Dryer Exhaust Ventilation,Electric dryer exhaust ventilation system has restricted airflow.,Electric dryer exhaust ventilation system is blocked or damaged such that airflow may be restricted.,Life-Threatening,24 hours,Fail,24 hours
+Outside,Clothes Dryer Exhaust Ventilation,"Exterior dryer vent cover, cap, or a component thereof is missing.","Exterior dryer vent cover, cap, or a component thereof is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Low,60 days,Pass,N/A
+Unit,Clothes Dryer Exhaust Ventilation,Dryer transition duct is constructed of unsuitable material.,Dryer transition duct is not constructed of metal or an approved material.,Life-Threatening,24 hours,Fail,24 hours
+Inside,Clothes Dryer Exhaust Ventilation,Dryer transition duct is constructed of unsuitable material.,Dryer transition duct is not constructed of metal or an approved material.,Life-Threatening,24 hours,Fail,24 hours
+Unit,Clothes Dryer Exhaust Ventilation,Gas dryer exhaust ventilation system has restricted airflow.,Gas dryer exhaust ventilation system is blocked or damaged such that airflow may be restricted.,Life-Threatening,24 hours,Fail,24 hours
+Inside,Clothes Dryer Exhaust Ventilation,Gas dryer exhaust ventilation system has restricted airflow.,Gas dryer exhaust ventilation system is blocked or damaged such that airflow may be restricted.,Life-Threatening,24 hours,Fail,24 hours
+Outside,Clothes Dryer Exhaust Ventilation,Gas dryer exhaust ventilation system has restricted airflow.,Gas dryer exhaust ventilation system is blocked or damaged such that airflow may be restricted.,Life-Threatening,24 hours,Fail,24 hours
+Unit,Cooking Appliance,"Cooking range, cooktop, or oven does not ignite or produce heat. ","No burner on the cooking range or cooktop produces heat. 
+
+OR
+
+The oven does not produce heat.",Severe,24 hours,Fail,30 days
+Inside,Cooking Appliance,"Cooking range, cooktop, or oven does not ignite or produce heat. ","No burner on the cooking range or cooktop produces heat. 
+
+OR
+
+The oven does not produce heat.",Low,60 days,Pass,N/A
+Unit,Cooking Appliance,"Cooking range, cooktop, or oven component is damaged or missing such that the device is unsafe for use.","Cooking range, cooktop, or oven component is damaged (i.e., visibly defective) such that the device is unsafe for use.
+OR
+Cooking range, cooktop, or oven component is missing (i.e., evidence of prior installation, but now not present or is incomplete) such that the device is unsafe for use.",Moderate,30 days,Fail,30 days
+Inside,Cooking Appliance,"Cooking range, cooktop, or oven component is damaged or missing such that the device is unsafe for use.","Cooking range, cooktop, or oven component is damaged (i.e., visibly defective) such that the device is unsafe for use.
+OR
+Cooking range, cooktop, or oven component is missing (i.e., evidence of prior installation, but now not present or is incomplete) such that the device is unsafe for use.",Moderate,30 days,Fail,30 days
+Unit,Cooking Appliance,Primary cooking appliance is missing.,"Primary cooking appliance is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Severe,24 hours,Fail,30 days
+Unit,Cooking Appliance,A microwave is the primary cooking appliance and it is damaged.,"A microwave is the primary cooking appliance and it is damaged (i.e., visibly defective; impacts functionality). ",Severe,24 hours,Fail,30 days
+Unit,Cooking Appliance,"A burner does not produce heat, but at least 1 other burner is present on the cooking range or cooktop and does produce heat. ","A burner does not produce heat, but at least 1 other burner is present on the cooking range or cooktop and does produce heat. ",Moderate,30 days,Fail,30 days
+Inside,Cooking Appliance,"A burner does not produce heat, but at least 1 other burner is present on the cooking range or cooktop and does produce heat. ","A burner does not produce heat, but at least 1 other burner is present on the cooking range or cooktop and does produce heat. ",Moderate,30 days,Fail,30 days
+Unit,Door - Entry,Entry door will not open.,Entry door will not open.,Moderate,30 days,Fail,30 days
+Inside,Door - Entry,Entry door will not open.,Entry door will not open.,Moderate,30 days,Fail,30 days
+Unit,Door - Entry,Entry door will not close.,"Entry door does not close (i.e., door seats in frame).",Severe,24 hours,Fail,30 days
+Inside,Door - Entry,Entry door will not close.,"Entry door does not close (i.e., door seats in frame).",Moderate,30 days,Fail,30 days
+Unit,Door - Entry,"Entry door self-closing mechanism is damaged, inoperable, or missing.","The self-closing mechanism is damaged (i.e., visibly defective; impacts functionality).
+OR
+The self-closing mechanism does not pull the door closed and engage the latch.
+OR
+The self-closing mechanism is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Moderate,30 days,Fail,30 days
+Inside,Door - Entry,"Entry door self-closing mechanism is damaged, inoperable, or missing.","The self-closing mechanism is damaged (i.e., visibly defective; impacts functionality).
+OR
+The self-closing mechanism does not pull the door closed and engage the latch.
+OR
+The self-closing mechanism is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Moderate,30 days,Fail,30 days
+Unit,Door - Entry,Entry door cannot be secured.,"Entry door cannot be secured (i.e., access controlled) by at least 1 installed lock.",Severe,24 hours,Fail,30 days
+Inside,Door - Entry,Entry door cannot be secured.,"Entry door cannot be secured (i.e., access controlled) by at least 1 installed lock.",Moderate,30 days,Fail,30 days
+Unit,Door - Entry,"Hole, split, or crack that penetrates completely through entry door.","A hole ¼ inch or greater in diameter that penetrates all the way through the door.
+OR
+A split or crack ¼ inch or greater in width that penetrates all the way through the door.
+OR
+A hole or a crack with separation is present, or the glass is missing within the door, side lites, or transom.",Moderate,30 days,Fail,30 days
+Inside,Door - Entry,"Hole, split, or crack that penetrates completely through entry door.","A hole ¼ inch or greater in diameter that penetrates all the way through the door.
+OR
+A split or crack ¼ inch or greater in width that penetrates all the way through the door.
+OR
+A hole or a crack with separation is present, or the glass is missing within the door, side lites, or transom.",Moderate,30 days,Fail,30 days
+Unit,Door - Entry,Entry door is missing.,"The entry door is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Life-Threatening,24 hours,Fail,24 hours
+Inside,Door - Entry,Entry door is missing.,"The entry door is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Severe,24 hours,Fail,30 days
+Unit,Door - Entry,Entry door surface is delaminated or separated.,"There is delamination or separation of the door surface 2 inches wide or greater.
+OR
+There is delamination or separation that affects the integrity of the door (i.e., surface protection or the strength of the door).",Moderate,30 days,Fail,30 days
+Inside,Door - Entry,Entry door surface is delaminated or separated.,"There is delamination or separation of the door surface 2 inches wide or greater.
+OR
+There is delamination or separation that affects the integrity of the door (i.e., surface protection or the strength of the door).",Moderate,30 days,Fail,30 days
+Unit,Door - Entry,"Entry door frame, threshold, or trim is damaged or missing.","The entry door frame, threshold, or trim is damaged (i.e., visibly defective; impacts functionality).
+OR
+The entry door frame, threshold, or trim is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Moderate,30 days,Fail,30 days
+Inside,Door - Entry,"Entry door frame, threshold, or trim is damaged or missing.","The entry door frame, threshold, or trim is damaged (i.e., visibly defective; impacts functionality).
+OR
+The entry door frame, threshold, or trim is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Moderate,30 days,Fail,30 days
+Unit,Door - Entry,"Entry door seal, gasket, or stripping is damaged, inoperable, or missing.","The entry door seal, gasket, or stripping is:
+- damaged (i.e., visibly defective; impacts functionality);
+- inoperable (i.e., overall system or component thereof is not meeting function/purpose, with or without visible damage); or
+- missing (i.e., evidence of prior installation, but now not present or is incomplete).
+
+AND ONE OF THE FOLLOWING CONDITIONS:
+
+Condition 1:
+- General door type: Results in a gap of ¼ inch wide or greater between the door slab and the stop molding on the jamb or the jamb itself, or between the bottom of the door and the threshold or floor AND permits light around the closed door.
+- Special door type: Results in a gap of ¼ inch wide or greater around or under the door or where the doors meet AND permits light around the closed door or where the doors meet.
+
+Condition 2:
+- General door type: There is evidence of water penetrating (e.g., water damage or dry rot) around or
+under the door.
+- Special door type: There is evidence of water penetrating (e.g., water damage or dry rot) around or under the door or where the doors meet.",Moderate,30 days,Fail,30 days
+Inside,Door - Entry,"Entry door seal, gasket, or stripping is damaged, inoperable, or missing.","The entry door seal, gasket, or stripping is:
+- damaged (i.e., visibly defective; impacts functionality);
+- inoperable (i.e., overall system or component thereof is not meeting function/purpose, with or without visible damage); or
+- missing (i.e., evidence of prior installation, but now not present or is incomplete).
+
+AND ONE OF THE FOLLOWING CONDITIONS:
+
+Condition 1:
+- General door type: Results in a gap of ¼ inch wide or greater between the door slab and the stop molding on the jamb or the jamb itself, or between the bottom of the door and the threshold or floor AND permits light around the closed door.
+- Special door type: Results in a gap of ¼ inch wide or greater around or under the door or where the
+doors meet AND permits light around the closed door or where the doors meet.
+
+Condition 2:
+- General door type: There is evidence of water penetrating (e.g., water damage or dry rot) around or under the door.
+- Special door type: There is evidence of water penetrating (e.g., water damage or dry rot) around or under the door or where the doors meet.",Moderate,30 days,Fail,30 days
+Unit,Door - Entry,"Entry door component is damaged, inoperable, or missing and it does not limit the door’s ability to provide privacy or protection from weather or infestation.","Entry door component is damaged (i.e., visibly defective) and it does not limit the door's ability to provide privacy or protection from weather or infestation.
+OR
+Entry door component is inoperable (i.e., component not meeting function or purpose; with or without visible damage) and it does not limit the door's ability to provide privacy or protection from weather or infestation.
+OR
+Entry door component is missing (i.e., evidence of prior installation, but it is now not present or is incomplete) and it does not limit the door's ability to provide privacy or protection from weather or infestation.",Low,60 days,Pass,N/A
+Inside,Door - Entry,"Entry door component is damaged, inoperable, or missing and it does not limit the door’s ability to provide privacy or protection from weather or infestation.","Entry door component is damaged (i.e., visibly defective) and it does not limit the door's ability to provide privacy or protection from weather or infestation.
+OR
+Entry door component is inoperable (i.e., component not meeting function or purpose; with or without visible damage) and it does not limit the door's ability to provide privacy or protection from weather or infestation.
+OR
+Entry door component is missing (i.e., evidence of prior installation, but it is now not present or is incomplete) and it does not limit the door's ability to provide privacy or protection from weather or infestation.",Low,60 days,Pass,N/A
+Unit,Door - Fire Labeled,Fire labeled door does not open.,Fire labeled door does not open such that it may limit access between spaces.,Severe,24 hours,Fail,30 days
+Inside,Door - Fire Labeled,Fire labeled door does not open.,Fire labeled door does not open such that it may limit access between spaces.,Severe,24 hours,Fail,30 days
+Unit,Door - Fire Labeled,Fire labeled door does not close and latch or the self-closing hardware is damaged or missing such that the door does not self-close and latch.,"Fire labeled door does not close (i.e., door seats in frame) and latch.
+OR
+Fire labeled door self-closing hardware is damaged (i.e., visibly defective; impacts functionality) or missing (i.e., evidence of prior installation, but is now not present or is incomplete) such that the door does not self-close (i.e., door seats in frame) and latch.",Severe,24 hours,Fail,30 days
+Inside,Door - Fire Labeled,Fire labeled door does not close and latch or the self-closing hardware is damaged or missing such that the door does not self-close and latch.,"Fire labeled door does not close (i.e., door seats in frame) and latch.
+OR
+Fire labeled door self-closing hardware is damaged (i.e., visibly defective; impacts functionality) or missing (i.e., evidence of prior installation, but is now not present or is incomplete) such that the door does not self-close (i.e., door seats in frame) and latch.",Severe,24 hours,Fail,30 days
+Unit,Door - Fire Labeled,Fire labeled door assembly has a hole of any size or is damaged such that its integrity may be compromised.,"A fire labeled door assembly has a hole of any size.
+OR
+A fire labeled door assembly is damaged (i.e., visibly defective; impacts functionality) such that its integrity may be compromised.",Severe,24 hours,Fail,30 days
+Inside,Door - Fire Labeled,Fire labeled door assembly has a hole of any size or is damaged such that its integrity may be compromised.,"A fire labeled door assembly has a hole of any size.
+OR
+A fire labeled door assembly is damaged (i.e., visibly defective; impacts functionality) such that its integrity may be compromised.",Severe,24 hours,Fail,30 days
+Unit,Door - Fire Labeled,Fire labeled door seal or gasket is damaged or missing.,"A fire labeled door seal or gasket is damaged (i.e., visibly defective; impacts functionality).
+OR
+A fire labeled door seal or gasket is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Severe,24 hours,Fail,30 days
+Inside,Door - Fire Labeled,Fire labeled door seal or gasket is damaged or missing.,"A fire labeled door seal or gasket is damaged (i.e., visibly defective; impacts functionality).
+OR
+A fire labeled door seal or gasket is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Severe,24 hours,Fail,30 days
+Unit,Door - Fire Labeled,An object is present that may prevent the fire labeled door from closing and latching or self-closing and latching.,"An object is present that may prevent the fire labeled door from closing (i.e., door seats in frame) and latching. 
+OR
+An object is present that may prevent the fire labeled door from self-closing (i.e., door seats in frame) and latching.",Severe,24 hours,Fail,30 days
+Inside,Door - Fire Labeled,An object is present that may prevent the fire labeled door from closing and latching or self-closing and latching.,"An object is present that may prevent the fire labeled door from closing (i.e., door seats in frame) and latching. 
+OR
+An object is present that may prevent the fire labeled door from self-closing (i.e., door seats in frame) and latching.",Severe,24 hours,Fail,30 days
+Unit,Door - Fire Labeled,Fire labeled door cannot be secured.,"Fire labeled door cannot be secured (i.e., access controlled) by at least 1 installed lock. ",Severe,24 hours,Fail,30 days
+Inside,Door - Fire Labeled,Fire labeled door cannot be secured.,"Fire labeled door cannot be secured (i.e., access controlled) by at least 1 installed lock. ",Moderate,30 days,Fail,30 days
+Unit,Door - Fire Labeled,Fire labeled door is missing. ,"Fire labeled door is missing (i.e., evidence of prior installation, but is now not present or is incomplete). ",Life-Threatening,24 hours,Fail,24 hours
+Inside,Door - Fire Labeled,Fire labeled door is missing. ,"Fire labeled door is missing (i.e., evidence of prior installation, but is now not present or is incomplete). ",Life-Threatening,24 hours,Fail,24 hours
+Unit,Door - General,A passage door does not open.,A passage door does not open such that it may limit the resident’s ability to move freely between rooms.,Moderate,30 days,Fail,30 days
+Inside,Door - General,A passage door does not open.,A passage door does not open such that it may limit the resident’s ability to move freely between rooms.,Moderate,30 days,Fail,30 days
+Unit,Door - General,"A passage door component is damaged, inoperable, or missing and the door is not functionally adequate.","A passage door component is damaged (i.e., visibly defective; impacts functionality) and the door is not functionally adequate. 
+OR 
+A passage door component is inoperable (i.e., component is not meeting function or purpose; with or without visible damage) and the door is not functionally adequate. 
+OR
+A passage door component is missing (i.e., evidence of prior installation, but is now not present or is incomplete) and the door is not functionally adequate.",Low,60 days,Pass,N/A
+Inside,Door - General,"A passage door component is damaged, inoperable, or missing and the door is not functionally adequate.","A passage door component is damaged (i.e., visibly defective; impacts functionality) and the door is not functionally adequate. 
+OR 
+A passage door component is inoperable (i.e., component is not meeting function or purpose; with or without visible damage) and the door is not functionally adequate. 
+OR
+A passage door component is missing (i.e., evidence of prior installation, but is now not present or is incomplete) and the door is not functionally adequate.",Low,60 days,Pass,N/A
+Unit,Door - General,"A door that is not intended to permit access between rooms has a damaged, inoperable, or missing component.","A door that is not intended to permit access between rooms has a damaged (i.e., visibly defective; impacts functionality) component. 
+OR
+A door that is not intended to permit access between rooms has an inoperable (i.e., component is not meeting function or purpose, with or without visible damage) component.
+OR
+A door that is not intended to permit access between rooms has a missing (i.e., evidence of prior installation, but is now not present or is incomplete) component.",Low,60 days,Pass,N/A
+Outside,Door - General,"An exterior door component is damaged, inoperable, or missing.","An exterior door component is damaged (i.e., visibly defective; impacts functionality), inoperable (i.e., component is not meeting function or purpose, with or without visible damage), or missing (i.e., evidence of prior installation, but is now not present or is incomplete).",Moderate,30 days,Fail,30 days
+Unit,Drain,Drain is fully blocked.,"Standing water is present over the floor drain, or the floor drain is blocked such that the inspector believes water would be unable to drain.",Moderate,30 days,Fail,30 days
+Inside,Drain,Drain is fully blocked.,"Standing water is present over the floor drain, or the floor drain is blocked such that the inspector believes water would be unable to drain.",Moderate,30 days,Fail,30 days
+Outside,Drain,Drain is fully blocked.,"Standing water is present over the floor drain, or the floor drain is blocked such that the inspector believes water would be unable to drain.",Moderate,30 days,Fail,30 days
+Unit,Egress,Obstructed means of egress. ,The exit access or exit is obstructed. ,Life-Threatening,24 hours,Fail,24 hours
+Inside,Egress,Obstructed means of egress. ,The exit access or exit is obstructed. ,Life-Threatening,24 hours,Fail,24 hours
+Outside,Egress,Obstructed means of egress. ,The exit access or exit is obstructed. ,Life-Threatening,24 hours,Fail,24 hours
+Unit,Egress,Sleeping room is located on the 3rd floor or below and has an obstructed rescue opening. ,Sleeping room is located on the 3rd floor or below and has an obstructed rescue opening. ,Life-Threatening,24 hours,Fail,24 hours
+Unit,Egress,Fire escape access is obstructed. ,Fire escape access is obstructed. ,Life-Threatening,24 hours,Fail,24 hours
+Unit,"Electrical - Conductor, Outlet, and Switch",Exposed electrical conductor.,"Electrical conductor is not enclosed or properly insulated (e.g., damaged or missing sheathing that exposes the insulated wiring or conductor, open port, missing knockout, missing outlet or switch cover, or missing breaker or fuse).  
+OR
+An opening or gap is present and measures greater than 1/2 inch.",Life-Threatening,24 hours,Fail,24 hours
+Inside,"Electrical - Conductor, Outlet, and Switch",Exposed electrical conductor.,"Electrical conductor is not enclosed or properly insulated (e.g., damaged or missing sheathing that exposes the insulated wiring or conductor, open port, missing knockout, missing outlet or switch cover, or missing breaker or fuse).  
+OR
+An opening or gap is present and measures greater than 1/2 inch.",Life-Threatening,24 hours,Fail,24 hours
+Outside,"Electrical - Conductor, Outlet, and Switch",Exposed electrical conductor.,"Electrical conductor is not enclosed or properly insulated (e.g., damaged or missing sheathing that exposes the insulated wiring or conductor, open port, missing knockout, missing outlet or switch cover, or missing breaker or fuse).  
+OR
+An opening or gap is present and measures greater than 1/2 inch.",Life-Threatening,24 hours,Fail,24 hours
+Unit,"Electrical - Conductor, Outlet, and Switch",Water is currently in contact with an electrical conductor. ,Water is currently in contact with an electrical conductor. ,Life-Threatening,24 hours,Fail,24 hours
+Inside,"Electrical - Conductor, Outlet, and Switch",Water is currently in contact with an electrical conductor. ,Water is currently in contact with an electrical conductor. ,Life-Threatening,24 hours,Fail,24 hours
+Unit,"Electrical - Conductor, Outlet, and Switch",Outlet or switch is damaged.,"Any portion of a visually accessible (i.e., can be reasonably accessed and observed) outlet or switch is damaged (i.e., visibly defective; impacts functionality) such that it may not safely carry or control electrical current at the outlet or switch.",Life-Threatening,24 hours,Fail,24 hours
+Inside,"Electrical - Conductor, Outlet, and Switch",Outlet or switch is damaged.,"Any portion of a visually accessible (i.e., can be reasonably accessed and observed) outlet or switch is damaged (i.e., visibly defective; impacts functionality) such that it may not safely carry or control electrical current at the outlet or switch.",Life-Threatening,24 hours,Fail,24 hours
+Outside,"Electrical - Conductor, Outlet, and Switch",Outlet or switch is damaged.,"Any portion of a visually accessible (i.e., can be reasonably accessed and observed) outlet or switch is damaged (i.e., visibly defective; impacts functionality) such that it may not safely carry or control electrical current at the outlet or switch.",Life-Threatening,24 hours,Fail,24 hours
+Unit,"Electrical - Conductor, Outlet, and Switch",Testing indicates a three-pronged outlet is not properly wired or grounded.,"Testing of a three-pronged outlet that is reasonably accessible (i.e., can be reached without moving obstructions, dismantling, destructive measures, or actions that may pose a risk to persons or property) indicates that it is not properly wired or grounded.",Severe,24 hours,Fail,30 days
+Inside,"Electrical - Conductor, Outlet, and Switch",Testing indicates a three-pronged outlet is not properly wired or grounded.,"Testing of a three-pronged outlet that is reasonably accessible (i.e., can be reached without moving obstructions, dismantling, destructive measures, or actions that may pose a risk to persons or property) indicates that it is not properly wired or grounded.",Severe,24 hours,Fail,30 days
+Outside,"Electrical - Conductor, Outlet, and Switch",Testing indicates a three-pronged outlet is not properly wired or grounded.,"Testing of a three-pronged outlet that is reasonably accessible (i.e., can be reached without moving obstructions, dismantling, destructive measures, or actions that may pose a risk to persons or property) indicates that it is not properly wired or grounded.",Severe,24 hours,Fail,30 days
+Unit,"Electrical - Conductor, Outlet, and Switch",Outlet does not have visible damage and testing indicates it is not energized.,"An outlet that is reasonably accessible (i.e., can be reached without moving obstructions, dismantling, destructive measures, or actions that may pose a risk to persons or property) does not have visible damage and testing indicates that it is not energized.",Severe,24 hours,Fail,30 days
+Inside,"Electrical - Conductor, Outlet, and Switch",Outlet does not have visible damage and testing indicates it is not energized.,"An outlet that is reasonably accessible (i.e., can be reached without moving obstructions, dismantling, destructive measures, or actions that may pose a risk to persons or property) does not have visible damage and testing indicates that it is not energized.",Severe,24 hours,Fail,30 days
+Outside,"Electrical - Conductor, Outlet, and Switch",Outlet does not have visible damage and testing indicates it is not energized.,"An outlet that is reasonably accessible (i.e., can be reached without moving obstructions, dismantling, destructive measures, or actions that may pose a risk to persons or property) does not have visible damage and testing indicates that it is not energized.",Severe,24 hours,Fail,30 days
+Unit,Electrical – Ground-Fault Circuit Interrupter (GFCI) or Arc-Fault Circuit Interrupter (AFCI) – Outlet or Breaker,GFCI outlet or GFCI breaker is not visibly damaged and the test or reset button is inoperable.,"GFCI outlet or GFCI breaker does not have visible damage and the test or reset button is inoperable (i.e., overall system or component thereof is not meeting function or purpose).",Severe,24 hours,Fail,30 days
+Inside,Electrical – Ground-Fault Circuit Interrupter (GFCI) or Arc-Fault Circuit Interrupter (AFCI) – Outlet or Breaker,GFCI outlet or GFCI breaker is not visibly damaged and the test or reset button is inoperable.,"GFCI outlet or GFCI breaker does not have visible damage and the test or reset button is inoperable (i.e., overall system or component thereof is not meeting function or purpose).",Severe,24 hours,Fail,30 days
+Outside,Electrical – Ground-Fault Circuit Interrupter (GFCI) or Arc-Fault Circuit Interrupter (AFCI) – Outlet or Breaker,GFCI outlet or GFCI breaker is not visibly damaged and the test or reset button is inoperable.,"GFCI outlet or GFCI breaker does not have visible damage and the test or reset button is inoperable (i.e., overall system or component thereof is not meeting function or purpose).",Severe,24 hours,Fail,30 days
+Unit,Electrical – Ground-Fault Circuit Interrupter (GFCI) or Arc-Fault Circuit Interrupter (AFCI) – Outlet or Breaker,AFCI outlet or AFCI breaker is not visibly damaged and the test or reset button is inoperable.,"AFCI outlet or AFCI breaker does not have visible damage and the test or reset button is inoperable (i.e., overall system or component thereof is not meeting function or purpose).",Severe,24 hours,Fail,30 days
+Inside,Electrical – Ground-Fault Circuit Interrupter (GFCI) or Arc-Fault Circuit Interrupter (AFCI) – Outlet or Breaker,AFCI outlet or AFCI breaker is not visibly damaged and the test or reset button is inoperable.,"AFCI outlet or AFCI breaker does not have visible damage and the test or reset button is inoperable (i.e., overall system or component thereof is not meeting function or purpose).",Severe,24 hours,Fail,30 days
+Outside,Electrical – Ground-Fault Circuit Interrupter (GFCI) or Arc-Fault Circuit Interrupter (AFCI) – Outlet or Breaker,AFCI outlet or AFCI breaker is not visibly damaged and the test or reset button is inoperable.,"AFCI outlet or AFCI breaker does not have visible damage and the test or reset button is inoperable (i.e., overall system or component thereof is not meeting function or purpose).",Severe,24 hours,Fail,30 days
+Unit,Electrical – Ground-Fault Circuit Interrupter (GFCI) or Arc-Fault Circuit Interrupter (AFCI) – Outlet or Breaker,An unprotected outlet is present within six feet of a water source.,"Outlet is present within six feet of a water source (i.e., sink, bathtub, shower, water faucet, toilet) that is located in the same room.
+AND
+Outlet is not GFCI protected. ",Severe,24 hours,Fail,30 days
+Inside,Electrical – Ground-Fault Circuit Interrupter (GFCI) or Arc-Fault Circuit Interrupter (AFCI) – Outlet or Breaker,An unprotected outlet is present within six feet of a water source.,"Outlet is present within six feet of a water source (i.e., sink, bathtub, shower, water faucet, toilet) that is located in the same room.
+AND
+Outlet is not GFCI protected. ",Severe,24 hours,Fail,30 days
+Outside,Electrical – Ground-Fault Circuit Interrupter (GFCI) or Arc-Fault Circuit Interrupter (AFCI) – Outlet or Breaker,An unprotected outlet is present within six feet of a water source.,"Outlet is present throughout the Outside.
+AND
+Outlet is not GFCI protected. ",Severe,24 hours,Fail,30 days
+Unit,Electrical - Service Panel,Electrical service panel is not reasonably accessible.,"Electrical service panel is not reasonably accessible (i.e., cannot be reached and opened without moving obstructions, dismantling, destructive measures, or actions that may pose a risk to persons or property).",Moderate,30 days,Fail,30 days
+Inside,Electrical - Service Panel,Electrical service panel is not reasonably accessible.,"Electrical service panel is not reasonably accessible (i.e., cannot be reached and opened without moving obstructions, dismantling, destructive measures, or actions that may pose a risk to persons or property).",Moderate,30 days,Fail,30 days
+Outside,Electrical - Service Panel,Electrical service panel is not reasonably accessible.,"Electrical service panel is not reasonably accessible (i.e., cannot be reached and opened without moving obstructions, dismantling, destructive measures, or actions that may pose a risk to persons or property).",Moderate,30 days,Fail,30 days
+Unit,Electrical - Service Panel,The overcurrent protection device is damaged.,"The overcurrent protection device (i.e., fuse or breaker) is damaged (i.e., visibly defective; impacts functionality) such that it may not interrupt the circuit during an overcurrent condition.",Life-Threatening,24 hours,Fail,24 hours
+Inside,Electrical - Service Panel,The overcurrent protection device is damaged.,"The overcurrent protection device (i.e., fuse or breaker) is damaged (i.e., visibly defective; impacts functionality) such that it may not interrupt the circuit during an overcurrent condition.",Life-Threatening,24 hours,Fail,24 hours
+Outside,Electrical - Service Panel,The overcurrent protection device is damaged.,"The overcurrent protection device (i.e., fuse or breaker) is damaged (i.e., visibly defective; impacts functionality) such that it may not interrupt the circuit during an overcurrent condition.",Life-Threatening,24 hours,Fail,24 hours
+Unit,Electrical - Service Panel,The overcurrent protection device is contaminated.,"The overcurrent protection device (i.e., fuse or breaker) is contaminated (e.g., water, rust, corrosion).",Severe,24 hours,Fail,30 days
+Inside,Electrical - Service Panel,The overcurrent protection device is contaminated.,"The overcurrent protection device (i.e., fuse or breaker) is contaminated (e.g., water, rust, corrosion).",Severe,24 hours,Fail,30 days
+Outside,Electrical - Service Panel,The overcurrent protection device is contaminated.,"The overcurrent protection device (i.e., fuse or breaker) is contaminated (e.g., water, rust, corrosion).",Severe,24 hours,Fail,30 days
+Inside,Elevator,Elevator is inoperable.,"Elevator is inoperable (i.e., overall system or component thereof not meeting function or purpose; with or without visible damage).",Moderate,30 days,Fail,30 days
+Inside,Elevator,Elevator door does not fully open and close.,Elevator door does not fully open and close.,Moderate,30 days,Fail,30 days
+Inside,Elevator,Elevator cab is not level with the floor.,There is more than a ¾-inch difference in level between the elevator cab and the building’s floor.,Moderate,30 days,Fail,30 days
+Inside,Elevator,Safety edge device has malfunctioned or is inoperable.,"Safety edge device has malfunctioned or is inoperable (i.e., overall system or component thereof is not meeting function or purpose; with or without visible damage). ",Moderate,30 days,Fail,30 days
+Inside,Exit Sign,"Exit sign is damaged, missing, obstructed, or not adequately illuminated.","Exit sign is damaged (i.e., visibly defective; impacts functionality).
+OR
+Exit sign is missing (i.e., evidence of prior installation, but is now not present or is incomplete). 
+OR
+Exit sign is obstructed such that the word “EXIT” is not clearly visible. 
+OR
+Exit sign is not adequately illuminated.",Life-Threatening,24 hours,Fail,24 hours
+Outside,Exit Sign,"Exit sign is damaged, missing, obstructed, or not adequately illuminated. ","Exit sign is damaged (i.e., visibly defective; impacts functionality).
+OR
+Exit sign is missing (i.e., evidence of prior installation, but is now not present or is incomplete). 
+OR
+Exit sign is obstructed such that the word “EXIT” is not clearly visible. 
+OR
+Exit sign is not adequately illuminated.",Life-Threatening,24 hours,Fail,24 hours
+Outside,Fence and Gate,Fence component is missing.,"Fence component is missing (i.e., evidence of prior installation, but now not present or is incomplete), resulting in a hole that is approximately 20% or greater of the area of a single section of fence. ",Moderate,30 days,Fail,30 days
+Outside,Fence and Gate,"Gate does not open, close, latch, or lock.","Gate will not open.
+OR
+Gate will open when locked or latched.
+OR
+Gate will not close.",Moderate,30 days,Fail,30 days
+Outside,Fence and Gate,Fence demonstrates signs of collapse.,Fence demonstrates signs of collapse.,Moderate,30 days,Fail,30 days
+Outside,Fire Escape,Fire escape component is damaged or missing.,"Any stair, ladder, platform, guardrail, or handrail is damaged (i.e., visibly defective; impacts functionality).
+OR
+Any stair, ladder, platform, guardrail, or handrail is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Life-Threatening,24 hours,Fail,24 hours
+Unit,Fire Extinguisher,Fire extinguisher pressure gauge reads over or under-charged.,Pressure gauge indicates that the fire extinguisher is over or under-charged.,Life-Threatening,24 hours,Fail,24 hours
+Inside,Fire Extinguisher,Fire extinguisher pressure gauge reads over or under-charged.,Pressure gauge indicates that the fire extinguisher is over or under-charged.,Life-Threatening,24 hours,Fail,24 hours
+Outside,Fire Extinguisher,Fire extinguisher pressure gauge reads over or under-charged.,Pressure gauge indicates that the fire extinguisher is over or under-charged.,Life-Threatening,24 hours,Fail,24 hours
+Unit,Fire Extinguisher,"Fire extinguisher service tag is missing, illegible, or expired.","The date on the service tag of any fire extinguisher has exceeded one year. 
+OR
+The fire extinguisher tag is missing or illegible. 
+OR
+A nonchargeable or disposable fire extinguisher is more than 12 years old (based on manufacture date).",Life-Threatening,24 hours,Fail,24 hours
+Inside,Fire Extinguisher,"Fire extinguisher service tag is missing, illegible, or expired.","The date on the service tag of any fire extinguisher has exceeded one year. 
+OR
+The fire extinguisher tag is missing or illegible. 
+OR
+A nonchargeable or disposable fire extinguisher is more than 12 years old (based on manufacture date).",Life-Threatening,24 hours,Fail,24 hours
+Outside,Fire Extinguisher,"Fire extinguisher service tag is missing, illegible, or expired.","The date on the service tag of any fire extinguisher has exceeded one year. 
+OR
+The fire extinguisher tag is missing or illegible. 
+OR
+A nonchargeable or disposable fire extinguisher is more than 12 years old (based on manufacture date).",Life-Threatening,24 hours,Fail,24 hours
+Unit,Fire Extinguisher,Fire extinguisher is damaged or missing. ,"Fire extinguisher is damaged (i.e., visibly defective; impacts functionality).
+OR
+Fire extinguisher is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Life-Threatening,24 hours,Fail,24 hours
+Inside,Fire Extinguisher,Fire extinguisher is damaged or missing. ,"Fire extinguisher is damaged (i.e., visibly defective; impacts functionality).
+OR
+Fire extinguisher is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Life-Threatening,24 hours,Fail,24 hours
+Outside,Fire Extinguisher,Fire extinguisher is damaged or missing. ,"Fire extinguisher is damaged (i.e., visibly defective; impacts functionality).
+OR
+Fire extinguisher is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Life-Threatening,24 hours,Fail,24 hours
+Unit,Flammable and Combustible Item,"Flammable or combustible item is on or within 3 feet of an appliance that provides heat for thermal comfort or a fuel-burning water heater. 
+OR
+Improperly stored chemicals. ","Flammable or combustible item is on or within 3 feet of an appliance that provides heat for thermal comfort or a fuel-burning water heater. 
+OR
+Improperly stored chemicals. ",Life-Threatening,24 hours,Fail,24 hours
+Inside,Flammable and Combustible Item,"Flammable or combustible item is on or within 3 feet of an appliance that provides heat for thermal comfort or a fuel-burning water heater. 
+OR
+Improperly stored chemicals. ","Flammable or combustible item is on or within 3 feet of an appliance that provides heat for thermal comfort or a fuel-burning water heater. 
+OR
+Improperly stored chemicals. ",Life-Threatening,24 hours,Fail,24 hours
+Outside,Flammable and Combustible Item,"Flammable or combustible item is on or within 3 feet of an appliance that provides heat for thermal comfort or a fuel-burning water heater. 
+OR
+Improperly stored chemicals. ","Flammable or combustible item is on or within 3 feet of an appliance that provides heat for thermal comfort or a fuel-burning water heater. 
+OR
+Improperly stored chemicals. ",Life-Threatening,24 hours,Fail,24 hours
+Unit,Floor,Floor substrate is exposed.,10% or more of the floor substrate area is exposed in any room.,Moderate,30 days,Fail,30 days
+Inside,Floor,Floor substrate is exposed.,10% or more of the floor substrate area is exposed in any room.,Moderate,30 days,Fail,30 days
+Unit,Floor,Floor component(s) is not functionally adequate. ,"Floor component(s) is not functionally adequate (i.e., does not allow floor to separate levels or to be walked on). ",Moderate,30 days,Fail,30 days
+Inside,Floor,Floor component(s) is not functionally adequate. ,"Floor component(s) is not functionally adequate (i.e., does not allow floor to separate levels or to be walked on). ",Moderate,30 days,Fail,30 days
+Unit,Food Preparation Area,Food preparation area is not present.,Food preparation area is not present.,Moderate,30 days,Fail,30 days
+Unit,Food Preparation Area,Food preparation area is damaged or is not functionally adequate.,"Exposed substrate surface comprises at least 10% or more of the total food preparation area. 
+OR
+The food preparation area is not functionally adequate (i.e., does not reasonably allow for adequate preparation of food).",Moderate,30 days,Fail,30 days
+Inside,Food Preparation Area,Food preparation area is damaged or is not functionally adequate.,"Exposed substrate surface comprises at least 10% or more of the total food preparation area. 
+OR
+The food preparation area is not functionally adequate (i.e., does not reasonably allow for adequate preparation of food).",Moderate,30 days,Fail,30 days
+Unit,Foundation,Foundation is cracked.,Crack is present with a width of ¼-inch or greater and a length of 12 inches or greater.,Moderate,30 days,Fail,30 days
+Inside,Foundation,Foundation is cracked.,Crack is present with a width of ¼-inch or greater and a length of 12 inches or greater.,Moderate,30 days,Fail,30 days
+Outside,Foundation,Foundation is cracked.,Crack is present with a width of ¼-inch or greater and a length of 12 inches or greater.,Moderate,30 days,Fail,30 days
+Outside,Foundation,Foundation vent cover is missing or damaged.,"Foundation vent cover is missing (i.e., evidence of prior installation, but now not present or is incomplete) or damaged (i.e., visibly defective; impacts functionality).",Moderate,30 days,Fail,30 days
+Unit,Foundation,"Foundation has exposed rebar or foundation is spalling, flaking, or chipping.","The structure has any exposed rebar.
+OR
+Foundation is spalling, flaking, or chipping, and the affected area is 12x12 inches or greater and goes into the foundation at a depth of ¾-inch or greater.",Moderate,30 days,Fail,30 days
+Inside,Foundation,"Foundation has exposed rebar or foundation is spalling, flaking, or chipping.","The structure has any exposed rebar.
+OR
+Foundation is spalling, flaking, or chipping, and the affected area is 12x12 inches or greater and goes into the foundation at a depth of ¾-inch or greater.",Moderate,30 days,Fail,30 days
+Outside,Foundation,"Foundation has exposed rebar or foundation is spalling, flaking, or chipping.","The structure has any exposed rebar.
+OR
+Foundation is spalling, flaking, or chipping, and the affected area is 12x12 inches or greater and goes into the foundation at a depth of ¾-inch or greater.",Moderate,30 days,Fail,30 days
+Unit,Foundation,Foundation is infiltrated by water.,Evidence of water infiltration through the foundation.,Moderate,30 days,Fail,30 days
+Inside,Foundation,Foundation is infiltrated by water.,Evidence of water infiltration through the foundation.,Moderate,30 days,Fail,30 days
+Unit,Foundation,"Foundation support post, column, beam, or girder is damaged.","Any support post, column, or girder area is damaged (i.e., visibly defective; impacts functionality).",Moderate,30 days,Fail,30 days
+Inside,Foundation,"Foundation support post, column, beam, or girder is damaged.","Any support post, column, or girder area is damaged (i.e., visibly defective; impacts functionality).",Moderate,30 days,Fail,30 days
+Outside,Foundation,"Foundation support post, column, beam, or girder is damaged.","Any support post, column, or girder area is damaged (i.e., visibly defective; impacts functionality).",Moderate,30 days,Fail,30 days
+Unit,Garage Door,Garage door has a hole.,Garage door has a hole of any size that penetrates through to the interior.,Moderate,30 days,Fail,30 days
+Inside,Garage Door,Garage door has a hole.,Garage door has a hole of any size that penetrates through to the interior.,Moderate,30 days,Fail,30 days
+Outside,Garage Door,Garage door has a hole.,Garage door has a hole of any size that penetrates through to the interior.,Moderate,30 days,Fail,30 days
+Unit,Garage Door,"Garage door does not open, close, or remain open or closed.","Door will not open and remain open. 
+OR 
+Door will not close and remain closed.",Moderate,30 days,Fail,30 days
+Inside,Garage Door,"Garage door does not open, close, or remain open or closed.","Door will not open and remain open. 
+OR 
+Door will not close and remain closed.",Moderate,30 days,Fail,30 days
+Outside,Garage Door,"Garage door does not open, close, or remain open or closed.","Door will not open and remain open. 
+OR 
+Door will not close and remain closed.",Moderate,30 days,Fail,30 days
+Unit,Grab Bar,Grab bar is not secure.,Any movement whatsoever is detected in the grab bar.,Moderate,30 days,Fail,30 days
+Inside,Grab Bar,Grab bar is not secure.,Any movement whatsoever is detected in the grab bar.,Moderate,30 days,Fail,30 days
+Unit,Guardrail,Guardrail is missing or not installed.,"The guardrail is missing (i.e., evidence of prior installation, but is now not present or is incomplete) or not installed (i.e., never installed, but should have been) along a walking surface that is more than 30 inches above the floor or grade below.",Life-Threatening,24 hours,Fail,24 hours
+Inside,Guardrail,Guardrail is missing or not installed.,"The guardrail is missing (i.e., evidence of prior installation, but is now not present or is incomplete) or not installed (i.e., never installed, but should have been) along a walking surface that is more than 30 inches above the floor or grade below.",Life-Threatening,24 hours,Fail,24 hours
+Outside,Guardrail,Guardrail is missing or not installed.,"The guardrail is missing (i.e., evidence of prior installation, but is now not present or is incomplete) or not installed (i.e., never installed, but should have been) along a walking surface that is more than 30 inches above the floor or grade below.",Life-Threatening,24 hours,Fail,24 hours
+Unit,Guardrail,Guardrail is not functionally adequate.,"Guardrail is missing functional component(s) (i.e., a component that is critical to the guardrail protecting from fall hazards).
+OR
+Guardrail is damaged (i.e., visibly defective; impacts functionality).
+OR
+Guardrail is less than 30 inches in height.
+OR
+Guardrail is not securely attached and cannot reasonably protect from fall hazards.",Life-Threatening,24 hours,Fail,24 hours
+Inside,Guardrail,Guardrail is not functionally adequate.,"Guardrail is missing functional component(s) (i.e., a component that is critical to the guardrail protecting from fall hazards).
+OR
+Guardrail is damaged (i.e., visibly defective; impacts functionality).
+OR
+Guardrail is less than 30 inches in height.
+OR
+Guardrail is not securely attached and cannot reasonably protect from fall hazards.",Life-Threatening,24 hours,Fail,24 hours
+Unit,Smoke Alarm,Smoke Alarm is obstructed,Smoke Alarm is obstructed,Life-Threatening,24 hours,Fail,24 hours
+Inside,Smoke Alarm,Smoke Alarm is obstructed,Smoke Alarm is obstructed,Life-Threatening,24 hours,Fail,24 hours
+Outside,Guardrail,Guardrail is not functionally adequate.,"Guardrail is missing functional component(s) (i.e., a component that is critical to the guardrail protecting from fall hazards).
+OR
+Guardrail is damaged (i.e., visibly defective; impacts functionality).
+OR
+Guardrail is less than 30 inches in height.
+OR
+Guardrail is not securely attached and cannot reasonably protect from fall hazards.",Life-Threatening,24 hours,Fail,24 hours
+Unit,Handrail,Handrail is missing.,"Handrail is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Moderate,30 days,Fail,30 days
+Inside,Handrail,Handrail is missing.,"Handrail is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Moderate,30 days,Fail,30 days
+Outside,Handrail,Handrail is missing.,"Handrail is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Moderate,30 days,Fail,30 days
+Unit,Handrail,Handrail is not functionally adequate.,"Handrail is not functionally adequate (i.e., it cannot reasonably be grasped by hand to provide stability or support when ascending or descending stairways).
+OR
+Handrail is not continuous for the full length of each stair flight.
+OR
+Handrail is not between 28 inches and 42 inches in height.",Moderate,30 days,Fail,30 days
+Inside,Handrail,Handrail is not functionally adequate.,"Handrail is not functionally adequate (i.e., it cannot reasonably be grasped by hand to provide stability or support when ascending or descending stairways).
+OR
+Handrail is not continuous for the full length of each stair flight.
+OR
+Handrail is not between 28 inches and 42 inches in height.",Moderate,30 days,Fail,30 days
+Outside,Handrail,Handrail is not functionally adequate.,"Handrail is not functionally adequate (i.e., it cannot reasonably be grasped by hand to provide stability or support when ascending or descending stairways).
+OR
+Handrail is not continuous for the full length of each stair flight.
+OR
+Handrail is not between 28 inches and 42 inches in height.",Moderate,30 days,Fail,30 days
+Unit,Handrail,Handrail is not installed where required. ,"4 or more stair risers are present and a handrail is not installed. 
+OR
+A ramp has a rise greater than 6 inches or a horizontal projection greater than 72 inches and a handrail is not installed on both sides. ",Low,60 days,Pass,N/A
+Inside,Handrail,Handrail is not installed where required. ,"4 or more stair risers are present and a handrail is not installed. 
+OR
+A ramp has a rise greater than 6 inches or a horizontal projection greater than 72 inches and a handrail is not installed on both sides. ",Low,60 days,Pass,N/A
+Outside,Handrail,Handrail is not installed where required. ,"4 or more stair risers are present and a handrail is not installed. 
+OR
+A ramp has a rise greater than 6 inches or a horizontal projection greater than 72 inches and a handrail is not installed on both sides. ",Low,60 days,Pass,N/A
+Unit,Handrail,Handrail is not secure.,There is movement in the anchors of the handrail.,Moderate,30 days,Fail,30 days
+Inside,Handrail,Handrail is not secure.,There is movement in the anchors of the handrail.,Moderate,30 days,Fail,30 days
+Outside,Handrail,Handrail is not secure.,There is movement in the anchors of the handrail.,Moderate,30 days,Fail,30 days
+Unit,"Heating, Ventilation, and Air Conditioning (HVAC)",The inspection date is on or between October 1 and March 31 and the permanently installed heating source is not working or the permanently installed heating source is working and the interior temperature is below 64 degrees Fahrenheit. ,"The inspection date is on or between October 1 and March 31. 
+AND
+The permanently installed heating source is not working. 
+OR
+The permanently installed heating source is working and the interior temperature is below 64 degrees Fahrenheit. ",Life-Threatening,24 hours,Fail,24 hours
+Unit,"Heating, Ventilation, and Air Conditioning (HVAC)",The inspection date is on or between October 1 and March 31 and the permanently installed heating source is working and the interior temperature is 64 to 67.9 degrees Fahrenheit. ,"The inspection date is on or between October 1 and March 31. 
+AND
+The permanently installed heating source is working and the interior temperature is 64 to 67.9 degrees Fahrenheit. ",Severe,24 hours,Fail,30 days
+Unit,"Heating, Ventilation, and Air Conditioning (HVAC)",Air conditioning system or device is not operational.,"System or device does not turn on.
+OR
+System or device only produces hot or room temperature air.",Moderate,30 days,Fail,30 days
+Inside,"Heating, Ventilation, and Air Conditioning (HVAC)",Air conditioning system or device is not operational.,"System or device does not turn on.
+OR
+System or device only produces hot or room temperature air.",Low,60 days,Pass,N/A
+Unit,"Heating, Ventilation, and Air Conditioning (HVAC)","Unvented space heater that burns gas, oil, or kerosene is present. ","Unvented space heater that burns gas, oil, or kerosene is present.",Life-Threatening,24 hours,Fail,24 hours
+Inside,"Heating, Ventilation, and Air Conditioning (HVAC)","Unvented space heater that burns gas, oil, or kerosene is present. ","Unvented space heater that burns gas, oil, or kerosene is present.",Life-Threatening,24 hours,Fail,24 hours
+Unit,"Heating, Ventilation, and Air Conditioning (HVAC)",Combustion chamber cover or gas shutoff valve is missing from a fuel burning heating appliance.,"Combustion chamber cover or gas shutoff valve is missing (i.e., evidence of prior installation, but is now not present or is incomplete) from a fuel burning heating appliance. ",Life-Threatening,24 hours,Fail,24 hours
+Inside,"Heating, Ventilation, and Air Conditioning (HVAC)",Combustion chamber cover or gas shutoff valve is missing from a fuel burning heating appliance.,"Combustion chamber cover or gas shutoff valve is missing (i.e., evidence of prior installation, but is now not present or is incomplete) from a fuel burning heating appliance. ",Life-Threatening,24 hours,Fail,24 hours
+Unit,"Heating, Ventilation, and Air Conditioning (HVAC)",Heating system or device safety shield is damaged or missing.,"Heating system or device safety shield is damaged (i.e., visibly defective; impacts functionality) or missing (i.e., evidence of prior installation, but is now not present or is incomplete).",Severe,24 hours,Fail,30 days
+Inside,"Heating, Ventilation, and Air Conditioning (HVAC)",Heating system or device safety shield is damaged or missing.,"Heating system or device safety shield is damaged (i.e., visibly defective; impacts functionality) or missing (i.e., evidence of prior installation, but is now not present or is incomplete).",Severe,24 hours,Fail,30 days
+Unit,"Heating, Ventilation, and Air Conditioning (HVAC)","The inspection date is on or between April 1 and September 30 and a permanently installed heating source is damaged, inoperable, missing, or not installed.","The inspection date is on or between April 1 and September 30. 
+AND
+A permanently installed heating source is damaged (i.e., visibly defective; impacts functionality).
+OR
+A permanently installed heating source is inoperable (i.e., not meeting function or purpose, with or without visible damage).
+OR
+A permanently installed heating source is missing (i.e., evidence of prior installation, but is now not present or is incomplete). 
+OR
+A permanently installed heating source is not installed.  ",Moderate,30 days,Fail,30 days
+Inside,"Heating, Ventilation, and Air Conditioning (HVAC)","The inspection date is on or between April 1 and September 30 and a permanently installed heating source is damaged, inoperable, missing, or not installed.","The inspection date is on or between April 1 and September 30. 
+AND
+A permanently installed heating source is damaged (i.e., visibly defective; impacts functionality).
+OR
+A permanently installed heating source is inoperable (i.e., not meeting function or purpose, with or without visible damage).
+OR
+A permanently installed heating source is missing (i.e., evidence of prior installation, but is now not present or is incomplete). 
+OR
+A permanently installed heating source is not installed.  ",Moderate,30 days,Fail,30 days
+Unit,"Heating, Ventilation, and Air Conditioning (HVAC)","Fuel burning heating system or device exhaust vent is misaligned, blocked, disconnected, improperly connected, damaged, or missing. ","Fuel burning heating system or device is present. 
+AND
+Exhaust vent is misaligned, blocked, disconnected, or improperly connected through to the ceiling or wall. 
+OR
+Exhaust vent is damaged (i.e., visibly defective; impacts functionality). 
+OR
+Exhaust vent is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Life-Threatening,24 hours,Fail,24 hours
+Inside,"Heating, Ventilation, and Air Conditioning (HVAC)","Fuel burning heating system or device exhaust vent is misaligned, blocked, disconnected, improperly connected, damaged, or missing. ","Fuel burning heating system or device is present. 
+AND
+Exhaust vent is misaligned, blocked, disconnected, or improperly connected through to the ceiling or wall. 
+OR
+Exhaust vent is damaged (i.e., visibly defective; impacts functionality). 
+OR
+Exhaust vent is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Life-Threatening,24 hours,Fail,24 hours
+Outside,"Heating, Ventilation, and Air Conditioning (HVAC)","Fuel burning heating system or device exhaust vent is misaligned, blocked, disconnected, improperly connected, damaged, or missing. ","Fuel burning heating system or device is present. 
+AND
+Exhaust vent is misaligned, blocked, disconnected, or improperly connected through to the ceiling or wall. 
+OR
+Exhaust vent is damaged (i.e., visibly defective; impacts functionality). 
+OR
+Exhaust vent is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Life-Threatening,24 hours,Fail,24 hours
+Inside,"Heating, Ventilation, and Air Conditioning (HVAC)",The inspection date is on or between October 1 and March 31 and the permanently installed heating source is inoperable. ,"The inspection date is on or between October 1 and March 31. 
+AND
+A permanently installed heating source is inoperable (i.e., not meeting function or purpose, with or without visible damage).",Moderate,30 days,Fail,30 days
+Unit,Infestation,Evidence of cockroaches.,"Evidence of cockroaches is found (i.e., a live or dead cockroach, shed skins, droppings, or egg cases).  ",Moderate,30 days,Fail,30 days
+Inside,Infestation,Evidence of cockroaches.,"Evidence of cockroaches is found (i.e., a live or dead cockroach, shed skins, droppings, or egg cases).  ",Moderate,30 days,Fail,30 days
+Unit,Infestation,Extensive cockroach infestation.,"Sighting of at least one live cockroach in two or more Units during a daytime surface visual assessment. 
+OR
+Sighting of at least one live cockroach in two or more rooms in a Unit during a daytime surface visual assessment. ",Severe,24 hours,Fail,30 days
+Inside,Infestation,Extensive cockroach infestation.,Sighting of at least one live cockroach in two or more separate locations in the building is a sign of extensive infestation.,Moderate,30 days,Fail,30 days
+Unit,Infestation,Evidence of bedbugs.,"Evidence of bedbugs is found (i.e., live or dead bedbugs, feces, eggs, or blood trails).",Moderate,30 days,Fail,30 days
+Inside,Infestation,Evidence of bedbugs.,"Evidence of bedbugs is found (i.e., live or dead bedbugs, feces, eggs, or blood trails).",Moderate,30 days,Fail,30 days
+Unit,Infestation,Extensive bedbug infestation.,"Sighting of at least one live bedbug in two or more Units during a daytime surface visual assessment. 
+OR
+Sighting of at least one live bedbug in two or more rooms in a Unit during a daytime surface visual assessment. ",Severe,24 hours,Fail,30 days
+Inside,Infestation,Extensive bedbug infestation.,Sighting of at least one live bedbug in two or more separate locations in the building is a sign of extensive infestation.,Moderate,30 days,Fail,30 days
+Unit,Infestation,Evidence of mice.,"Evidence of mice is found (i.e., a live or dead mouse or mice, droppings, chewed holes, or urine trails).",Moderate,30 days,Fail,30 days
+Inside,Infestation,Evidence of mice.,"Evidence of mice is found (i.e., a live or dead mouse or mice, droppings, chewed holes, or urine trails).",Moderate,30 days,Fail,30 days
+Unit,Infestation,Extensive mouse infestation.,"Sighting of at least one live mouse in two or more Units during a daytime surface visual assessment. 
+OR
+Sighting of at least one live mouse in two or more rooms in a Unit during a daytime surface visual assessment. ",Severe,24 hours,Fail,30 days
+Inside,Infestation,Extensive mouse infestation.,Sighting of at least one live mouse in two or more separate locations in the building during a daytime surface visual assessment. ,Moderate,30 days,Fail,30 days
+Unit,Infestation,Evidence of rats.,"Evidence of rats is found (i.e., dead rat or rats, droppings, or chewed holes).",Moderate,30 days,Fail,30 days
+Inside,Infestation,Evidence of rats.,"Evidence of rats is found (i.e., dead rat or rats, droppings, or chewed holes).",Moderate,30 days,Fail,30 days
+Outside,Infestation,Evidence of rats.,"Evidence of rats is found (i.e., a live or dead rat or rats, droppings, or chewed holes).",Moderate,30 days,Fail,30 days
+Unit,Infestation,Extensive rat infestation.,Live rat is seen in the Unit. ,Severe,24 hours,Fail,30 days
+Inside,Infestation,Extensive rat infestation.,Live rat is seen in the Inside. ,Severe,24 hours,Fail,30 days
+Unit,Infestation,Evidence of other pests.,"Evidence is present of pest infestation other than cockroaches, bed bugs, mice, or rats. This may include, but is not limited to, wasps/wasp nests or bees/beehives, squirrels or squirrel nests, birds, or bats. Pests are animals with potential impacts on resident health and safety.",Moderate,30 days,Fail,30 days
+Inside,Infestation,Evidence of other pests.,"Evidence is present of pest infestation other than cockroaches, bed bugs, mice, or rats. This may include, but is not limited to, wasps/wasp nests or bees/beehives, squirrels or squirrel nests, birds, or bats. Pests are animals with potential impacts on resident health and safety.",Moderate,30 days,Fail,30 days
+Unit,Leak - Gas or Oil,"Natural gas, propane, or oil leak.","There is evidence of a gas, propane, or oil leak.
+OR
+There is an uncapped gas or fuel supply line.",Life-Threatening,24 hours,Fail,24 hours
+Inside,Leak - Gas or Oil,"Natural gas, propane, or oil leak.","There is evidence of a gas, propane, or oil leak.
+OR
+There is an uncapped gas or fuel supply line.",Life-Threatening,24 hours,Fail,24 hours
+Outside,Leak - Gas or Oil,"Natural gas, propane, or oil leak.","There is evidence of a gas, propane, or oil leak.
+OR
+There is an uncapped gas or fuel supply line.",Life-Threatening,24 hours,Fail,24 hours
+Unit,Leak - Sewage System,Blocked sewage system.,Wastewater is unable to drain resulting in sewer backup.,Severe,24 hours,Fail,30 days
+Inside,Leak - Sewage System,Blocked sewage system.,Wastewater is unable to drain resulting in sewer backup.,Severe,24 hours,Fail,30 days
+Outside,Leak - Sewage System,Blocked sewage system.,Wastewater is unable to drain resulting in sewer backup.,Severe,24 hours,Fail,30 days
+Unit,Leak - Sewage System,Leak in sewage system.,There is evidence of a sewer line or fitting leaking.,Severe,24 hours,Fail,30 days
+Inside,Leak - Sewage System,Leak in sewage system.,There is evidence of a sewer line or fitting leaking.,Severe,24 hours,Fail,30 days
+Outside,Leak - Sewage System,Leak in sewage system.,There is evidence of a sewer line or fitting leaking.,Severe,24 hours,Fail,30 days
+Unit,Leak - Sewage System,Cap to the cleanout or pump cover is detached or missing.,"Cap to the cleanout or pump cover is detached or missing (i.e., evidence of prior installation, but now not present or is incomplete).",Moderate,30 days,Fail,30 days
+Inside,Leak - Sewage System,Cap to the cleanout or pump cover is detached or missing.,"Cap to the cleanout or pump cover is detached or missing (i.e., evidence of prior installation, but now not present or is incomplete).",Moderate,30 days,Fail,30 days
+Outside,Leak - Sewage System,Cap to the cleanout or pump cover is detached or missing.,"Cap to the cleanout or pump cover is detached or missing (i.e., evidence of prior installation, but now not present or is incomplete).",Moderate,30 days,Fail,30 days
+Unit,Leak - Sewage System,Cleanout cap or riser is damaged.,"Cleanout cap or riser is damaged (i.e., visibly defective; impacts functionality).",Moderate,30 days,Fail,30 days
+Inside,Leak - Sewage System,Cleanout cap or riser is damaged.,"Cleanout cap or riser is damaged (i.e., visibly defective; impacts functionality).",Moderate,30 days,Fail,30 days
+Outside,Leak - Sewage System,Cleanout cap or riser is damaged.,"Cleanout cap or riser is damaged (i.e., visibly defective; impacts functionality).",Moderate,30 days,Fail,30 days
+Unit,Leak - Water,Environmental water intrusion.,Water from the exterior environment is leaking into the interior. ,Moderate,30 days,Fail,30 days
+Inside,Leak - Water,Environmental water intrusion.,Water from the exterior environment is leaking into the interior. ,Moderate,30 days,Fail,30 days
+Unit,Leak - Water,Plumbing leak.,Failure of a plumbing system that allows for water intrusion in unintended areas.,Moderate,30 days,Fail,30 days
+Inside,Leak - Water,Plumbing leak.,Failure of a plumbing system that allows for water intrusion in unintended areas.,Moderate,30 days,Fail,30 days
+Outside,Leak - Water,Plumbing leak.,Failure of a plumbing system that allows for water intrusion in unintended areas.,Low,60 days,Pass,N/A
+Unit,Leak - Water,Fluid is leaking from the sprinkler assembly. ,Fluid is leaking from the sprinkler assembly. ,Moderate,30 days,Fail,30 days
+Inside,Leak - Water,Fluid is leaking from the sprinkler assembly. ,Fluid is leaking from the sprinkler assembly. ,Moderate,30 days,Fail,30 days
+Outside,Leak - Water,Fluid is leaking from the sprinkler assembly. ,Fluid is leaking from the sprinkler assembly. ,Low,60 days,Pass,N/A
+Inside,Lighting - Auxiliary,"Auxiliary lighting is damaged, missing, or fails to illuminate when tested.","Auxiliary lighting is damaged (i.e., visibly defective; impacts functionality), missing (i.e., evidence of prior installation, but is now not present or is incomplete), or fails to illuminate when tested.",Severe,24 hours,Fail,30 days
+Outside,Lighting - Auxiliary,"Auxiliary lighting is damaged, missing, or fails to illuminate when tested.","Auxiliary lighting is damaged (i.e., visibly defective; impacts functionality), missing (i.e., evidence of prior installation, but is now not present or is incomplete), or fails to illuminate when tested.",Severe,24 hours,Fail,30 days
+Outside,Lighting - Exterior,"A permanently installed light fixture is damaged, inoperable, missing, or not secure.","A permanently installed light fixture is damaged (i.e., visibly defective; impacts functionality). 
+OR
+A permanently installed light fixture is inoperable (i.e., overall system or component thereof is not meeting function or purpose; with or without visible damage). 
+OR
+A permanently installed light fixture is missing (i.e., evidence of prior installation, but now not present or is incomplete). 
+OR
+A permanently installed light fixture is not secure to the designed attachment point or the attachment point is not stable.",Moderate,30 days,Fail,30 days
+Unit,Lighting - Interior,A permanently installed light fixture is inoperable.,"A permanently installed light fixture is inoperable (i.e., the overall system or component thereof is not meeting function or purpose; with or without visible damage).",Moderate,30 days,Fail,30 days
+Inside,Lighting - Interior,A permanently installed light fixture is inoperable.,"A permanently installed light fixture is inoperable (i.e., the overall system or component thereof is not meeting function or purpose; with or without visible damage).",Moderate,30 days,Fail,30 days
+Unit,Lighting - Interior,A permanently installed light fixture is not secure.,A permanently installed light fixture is not secure to the designed attachment point or the attachment point is not stable.,Moderate,30 days,Fail,30 days
+Inside,Lighting - Interior,A permanently installed light fixture is not secure.,A permanently installed light fixture is not secure to the designed attachment point or the attachment point is not stable.,Moderate,30 days,Fail,30 days
+Unit,Lighting - Interior,At least one (1) permanently installed light fixture is not present in the kitchen and bathroom.,At least one (1) permanently installed light fixture is not present in the kitchen and bathroom.,Moderate,30 days,Fail,30 days
+Inside,Lighting - Interior,At least one (1) permanently installed light fixture is not present in the kitchen and bathroom.,At least one (1) permanently installed light fixture is not present in the kitchen and bathroom.,Moderate,30 days,Fail,30 days
+Inside,Litter,Litter is accumulated in an undesignated area.,"10 or more small items of litter (e.g., food wrappers, pieces of food, newspapers) are present within a 10-foot by 10-foot area not designated for garbage. 
+OR
+Any number of large items (e.g., furniture or appliances) have been clearly discarded in an area not designated for garbage.",Moderate,30 days,Fail,30 days
+Outside,Litter,Litter is accumulated in an undesignated area.,"10 or more small items of litter (e.g., food wrappers, pieces of food, newspapers) are present within a 10-foot by 10-foot area not designated for garbage. 
+OR
+Any number of large items (e.g., furniture or appliances) have been clearly discarded in an area not designated for garbage.",Low,60 days,Pass,N/A
+Unit,Minimum Electrical and Lighting,"At least two (2) working outlets are not present within each habitable room. 
+OR
+At least one (1) working outlet and one (1) permanently installed light fixture is not present within each habitable room.","At least two (2) working outlets are not present within each habitable room. 
+OR
+At least one (1) working outlet and one (1) permanently installed light fixture is not present within each habitable room.",Moderate,30 days,Fail,30 days
+Unit,Mold-Like Substance,Presence of mold-like substance at moderate levels is observed visually.,Cumulative area of patches is more than 4 square inches and less than 1 square foot in a room. ,Moderate,30 days,Fail,30 days
+Inside,Mold-Like Substance,Presence of mold-like substance at moderate levels is observed visually.,Cumulative area of patches is more than 4 square inches and less than 1 square foot in a room. ,Low,60 days,Pass,N/A
+Unit,Mold-Like Substance,Presence of mold-like substance at high levels is observed visually.,Cumulative area of patches is more than 1 square foot and less than 9 square feet in a room. ,Severe,24 hours,Fail,30 days
+Inside,Mold-Like Substance,Presence of mold-like substance at high levels is observed visually.,Cumulative area of patches is more than 1 square foot and less than 9 square feet in a room. ,Moderate,30 days,Fail,30 days
+Unit,Mold-Like Substance,Presence of mold-like substance at extremely high levels is observed visually.,Cumulative area of patches is more than 9 square foot in a room. ,Life-Threatening,24 hours,Fail,24 hours
+Inside,Mold-Like Substance,Presence of mold-like substance at extremely high levels is observed visually.,Cumulative area of patches is more than 9 square foot in a room. ,Severe,24 hours,Fail,30 days
+Unit,Mold-Like Substance,Elevated moisture level. ,Elevated moisture level. ,Moderate,30 days,Fail,30 days
+Inside,Mold-Like Substance,Elevated moisture level. ,Elevated moisture level. ,Low,60 days,Pass,N/A
+Outside,Parking Lot,Parking lot has any one pothole that is 4 inches deep and 1 square foot or greater.,Parking lot has any one pothole that is 4 inches deep and 1 square foot or greater.,Moderate,30 days,Fail,30 days
+Outside,Parking Lot,Parking lot has ponding.,More than 3 inches of water has accumulated in a parking lot and 5% or more of the parking lot is unusable.,Moderate,30 days,Fail,30 days
+Unit,Potential Lead-Based Paint Hazards - Visual Assessment,Paint in a Unit or Inside the target property is deteriorated – below the level required for lead-safe work practices by a lead certified firm or for passing clearance.,"Paint is deteriorated (e.g., peeling, chipping, chalking, cracking, or detached from the substrate). For large surface areas in the Unit, deteriorated paint is less than or equal to 2 square feet per room; for small surface areas, less than or equal to 10% per component (“de minimis”).",Moderate,30 days,Fail,30 days
+Inside,Potential Lead-Based Paint Hazards - Visual Assessment,Paint in a Unit or Inside the target property is deteriorated – below the level required for lead-safe work practices by a lead certified firm or for passing clearance.,"Paint is deteriorated (e.g., peeling, chipping, chalking, cracking, or detached from the substrate). For large surface areas in the Unit, deteriorated paint is less than or equal to 2 square feet per room; for small surface areas, less than or equal to 10% per component (“de minimis”).",Moderate,30 days,Fail,30 days
+Unit,Potential Lead-Based Paint Hazards - Visual Assessment,Paint in a Unit or Inside the target property is deteriorated – above the level required for lead-safe work practices by a lead certified firm and passing clearance.,"Paint is deteriorated (e.g., peeling, chipping, chalking, cracking, or detached from the substrate). For large surface areas in the Unit, deteriorated paint is more than 2 square feet per room; for small surface areas, greater than 10% per component (“significant”).",Severe,24 hours,Fail,30 days
+Inside,Potential Lead-Based Paint Hazards - Visual Assessment,Paint in a Unit or Inside the target property is deteriorated – above the level required for lead-safe work practices by a lead certified firm and passing clearance.,"Paint is deteriorated (e.g., peeling, chipping, chalking, cracking, or detached from the substrate). For large surface areas in the Unit, deteriorated paint is more than 2 square feet per room; for small surface areas, greater than 10% per component (“significant”).",Severe,24 hours,Fail,30 days
+Outside,Potential Lead-Based Paint Hazards - Visual Assessment,Paint Outside on a target property is deteriorated – below the level required for lead-safe work practices by a lead-certified firm or for passing clearance.,"Paint is deteriorated (e.g., peeling, chipping, chalking, cracking, or detached from the substrate). Deteriorated paint is less than or equal to 20 square feet (“de minimis”).",Moderate,30 days,Fail,30 days
+Outside,Potential Lead-Based Paint Hazards - Visual Assessment,Paint Outside on a target property is deteriorated – above the level required for lead-safe work practices by a lead-certified firm and passing clearance.,"Paint is deteriorated (e.g., peeling, chipping, chalking, cracking, or detached from the substrate). Deteriorated paint is more than 20 square feet (“significant”).",Severe,24 hours,Fail,30 days
+Outside,Private Roads and Driveways,Road or driveway access to the property is blocked or impassable for vehicles.,Road or driveway access to the property is blocked or impassable for vehicles.,Severe,24 hours,Fail,30 days
+Outside,Private Roads and Driveways,Road or driveway has any one pothole that is 4 inches deep and 1 square foot or greater.,Any one pothole is 4 inches deep and 1 square foot or greater.,Moderate,30 days,Fail,30 days
+Unit,Refrigerator,Refrigerator is inoperable such that it may be unable to safely and adequately store food.,"Refrigerator is inoperable (i.e., overall system is not meeting function or purpose; with or without visible damage) such that it may be unable to safely and adequately store food.",Moderate,30 days,Fail,30 days
+Inside,Refrigerator,Refrigerator is inoperable such that it may be unable to safely and adequately store food.,"Refrigerator is inoperable (i.e., overall system is not meeting function or purpose; with or without visible damage) such that it may be unable to safely and adequately store food.",Moderate,30 days,Fail,30 days
+Unit,Refrigerator,Refrigerator component is damaged such that it impacts functionality.,"Refrigerator component is damaged (i.e., visibly defective) such that it impacts functionality.",Moderate,30 days,Fail,30 days
+Inside,Refrigerator,Refrigerator component is damaged such that it impacts functionality.,"Refrigerator component is damaged (i.e., visibly defective) such that it impacts functionality.",Low,60 days,Pass,N/A
+Unit,Refrigerator,Refrigerator is missing.,"Refrigerator is missing (i.e., evidence of prior installation, but is now not present).",Moderate,30 days,Fail,30 days
+Outside,Retaining Wall,Retaining wall is leaning away from the fill side.,Retaining wall is leaning away from the fill side.,Moderate,30 days,Fail,30 days
+Outside,Retaining Wall,Retaining wall is partially or completely collapsed.,Retaining wall is partially or completely collapsed.,Moderate,30 days,Fail,30 days
+Outside,Roof Assembly,"Restricted flow of water from a roof drain, gutter, or downspout.","Debris is limiting the ability of water to drain; water may not be present.
+OR
+An area of approximately 25 square feet of ponding water is located above the drain.",Moderate,30 days,Fail,30 days
+Outside,Roof Assembly,"Gutter component is damaged, missing, or unfixed.","Gutter component is damaged (i.e., visibly defective; impacts functionality).
+OR
+Gutter component is missing (i.e., evidence of prior installation, but now not present or is incomplete).
+OR
+Gutter component is unfixed.",Moderate,30 days,Fail,30 days
+Outside,Roof Assembly,Roof surface has standing water.,Water ponding in an area approximately 25 square feet or greater on a flat roof surface not near a drain or scupper.,Moderate,30 days,Fail,30 days
+Outside,Roof Assembly,Substrate is exposed.,Any amount of substrate is exposed.,Moderate,30 days,Fail,30 days
+Outside,Roof Assembly,Roof assembly has a hole.,"Unintentional hole of any size is found. 
+OR
+Intentional hole of any size is found and is not covered by a vent or screen.",Moderate,30 days,Fail,30 days
+Outside,Roof Assembly,Roof assembly is damaged.,"Roof assembly is damaged (i.e., visibly defective; impacts functionality).",Moderate,30 days,Fail,30 days
+Unit,Sharp Edges,A sharp edge that can result in a cut or puncture hazard is present.,"A sharp edge that can result in a cut or puncture hazard that is likely to require emergency care (e.g., stitches) is present within the built environment (i.e., human-made structures, features, and facilities).",Severe,24 hours,Fail,30 days
+Inside,Sharp Edges,A sharp edge that can result in a cut or puncture hazard is present.,"A sharp edge that can result in a cut or puncture hazard that is likely to require emergency care (e.g., stitches) is present within the built environment (i.e., human-made structures, features, and facilities).",Severe,24 hours,Fail,30 days
+Outside,Sharp Edges,A sharp edge that can result in a cut or puncture hazard is present.,"A sharp edge that can result in a cut or puncture hazard that is likely to require emergency care (e.g., stitches) is present on or adjacent to the built environment (i.e., human-made structures, features, and facilities).",Severe,24 hours,Fail,30 days
+Outside,"Sidewalk, Walkway, and Ramp","Sidewalk, walkway, or ramp is blocked or impassable.","Sidewalk, walkway, or ramp is blocked or impassable.",Moderate,30 days,Fail,30 days
+Outside,"Sidewalk, Walkway, and Ramp","Sidewalk, walkway, or ramp is not functionally adequate. ","Sidewalk, walkway, or ramp is not functionally adequate (i.e., does not provide a defined and safe path of exterior travel for pedestrians). ",Moderate,30 days,Fail,30 days
+Unit,Sink,Sink or sink component is damaged or missing and the sink is not functionally adequate. ,"Sink or sink component is damaged (i.e., visibly defective; impacts functionality) or missing (i.e., evidence of prior installation, but now not present or is incomplete) and the sink is not functionally adequate. ",Moderate,30 days,Fail,30 days
+Inside,Sink,Sink or sink component is damaged or missing and the sink is not functionally adequate. ,"Sink or sink component is damaged (i.e., visibly defective; impacts functionality) or missing (i.e., evidence of prior installation, but now not present or is incomplete) and the sink is not functionally adequate. ",Low,60 days,Pass,N/A
+Unit,Sink,Water is directed outside of the basin. ,Water is directed outside of the basin.,Low,60 days,Pass,N/A
+Inside,Sink,Water is directed outside of the basin. ,Water is directed outside of the basin.,Low,60 days,Pass,N/A
+Unit,Sink,Sink is not draining.,Water is not draining from the basin of the sink.,Moderate,30 days,Fail,30 days
+Inside,Sink,Sink is not draining.,Water is not draining from the basin of the sink.,Moderate,30 days,Fail,30 days
+Unit,Sink,"Sink is improperly installed, pulling away from the wall, leaning, or there are gaps between the sink and wall.","Sink is improperly installed, pulling away from the wall, leaning, or there are gaps between the sink and wall.",Moderate,30 days,Fail,30 days
+Inside,Sink,"Sink is improperly installed, pulling away from the wall, leaning, or there are gaps between the sink and wall.","Sink is improperly installed, pulling away from the wall, leaning, or there are gaps between the sink and wall.",Moderate,30 days,Fail,30 days
+Unit,Sink,Sink component is damaged or missing and the sink is functionally adequate. ,"Sink component is damaged (i.e., visibly defective; impacts functionality) or missing (i.e., evidence of prior installation, but now not present or is incomplete) and the sink is functionally adequate. ",Low,60 days,Pass,N/A
+Inside,Sink,Sink component is damaged or missing and the sink is functionally adequate. ,"Sink component is damaged (i.e., visibly defective; impacts functionality) or missing (i.e., evidence of prior installation, but now not present or is incomplete) and the sink is functionally adequate. ",Low,60 days,Pass,N/A
+Unit,Sink,Cannot activate or deactivate hot and cold water. ,Control knobs do not activate or deactivate hot and cold water.,Moderate,30 days,Fail,30 days
+Inside,Sink,Cannot activate or deactivate hot and cold water. ,Control knobs do not activate or deactivate hot and cold water.,Moderate,30 days,Fail,30 days
+Unit,Sink,Sink is missing or not installed within the primary kitchen. ,"Sink is missing (i.e., evidence of prior installation, but now not present or is incomplete) or not installed (i.e., never installed, but should have been) in the primary kitchen",Moderate,30 days,Fail,30 days
+Outside,Site Drainage,Water runoff is unable to flow through the site drainage system.,"Standing water is present above the outflow pipe entrance.
+OR
+Drainage is blocked such that the inspector believes water is unable to drain in the event of precipitation.",Low,60 days,Pass,N/A
+Outside,Site Drainage,Erosion is present.,"Erosion is present and the footer is exposed. 
+OR
+Erosion is more than 2 feet away from the built environment and its depth is equal to or greater than its measured distance from the built environment, and the inspector believes it may undermine the supporting soil.",Low,60 days,Pass,N/A
+Outside,Site Drainage,Grate is not secure or does not cover the site drainage system’s collection point.,Grate is not secure or does not cover the site drainage system’s collection point.,Moderate,30 days,Fail,N/A
+Unit,Smoke Alarm,Smoke alarm is not installed where required.,"Smoke alarm is not installed inside each bedroom.
+AND
+Smoke alarm is not installed outside the bedroom(s).
+AND
+Smoke alarm is not installed on each level.",Life-Threatening,24 hours,Fail,24 hours
+Inside,Smoke Alarm,Smoke alarm is not installed where required.,"Smoke alarm is not installed inside each classroom.
+AND
+Smoke alarm is not installed outside the classroom(s).
+AND
+Smoke alarm is not installed on each level.",Life-Threatening,24 hours,Fail,24 hours
+Unit,Smoke Alarm,Smoke alarm does not produce an audio or visual alarm when tested.,Smoke alarm does not produce an audio or visual alarm when tested.,Life-Threatening,24 hours,Fail,24 hours
+Inside,Smoke Alarm,Smoke alarm does not produce an audio or visual alarm when tested.,Smoke alarm does not produce an audio or visual alarm when tested.,Life-Threatening,24 hours,Fail,24 hours
+Unit,Sprinkler Assembly,Sprinkler head assembly is encased or obstructed by an item or object that is within 18 inches of the sprinkler head.,Sprinkler head assembly is encased or obstructed by an item or object that is within 18 inches of the sprinkler head.,Life-Threatening,24 hours,Fail,24 hours
+Inside,Sprinkler Assembly,Sprinkler head assembly is encased or obstructed by an item or object that is within 18 inches of the sprinkler head.,Sprinkler head assembly is encased or obstructed by an item or object that is within 18 inches of the sprinkler head.,Life-Threatening,24 hours,Fail,24 hours
+Outside,Sprinkler Assembly,Sprinkler head assembly is encased or obstructed by an item or object that is within 18 inches of the sprinkler head.,Sprinkler head assembly is encased or obstructed by an item or object that is within 18 inches of the sprinkler head.,Life-Threatening,24 hours,Fail,24 hours
+Unit,Sprinkler Assembly,"Sprinkler assembly component is damaged, inoperable, or missing and it is detrimental to performance.","Sprinkler assembly component is damaged (i.e., visibly defective; impacts functionality), inoperable (i.e., overall system or component thereof not meeting function or purpose; with or without visible damage), or missing (i.e., evidence of prior installation, but now not present or is incomplete) and it is detrimental to performance.",Life-Threatening,24 hours,Fail,24 hours
+Inside,Sprinkler Assembly,"Sprinkler assembly component is damaged, inoperable, or missing and it is detrimental to performance.","Sprinkler assembly component is damaged (i.e., visibly defective; impacts functionality), inoperable (i.e., overall system or component thereof not meeting function or purpose; with or without visible damage), or missing (i.e., evidence of prior installation, but now not present or is incomplete) and it is detrimental to performance.",Life-Threatening,24 hours,Fail,24 hours
+Outside,Sprinkler Assembly,"Sprinkler assembly component is damaged, inoperable, or missing and it is detrimental to performance.","Sprinkler assembly component is damaged (i.e., visibly defective; impacts functionality), inoperable (i.e., overall system or component thereof not meeting function or purpose; with or without visible damage), or missing (i.e., evidence of prior installation, but now not present or is incomplete) and it is detrimental to performance.",Life-Threatening,24 hours,Fail,24 hours
+Unit,Sprinkler Assembly,Sprinkler assembly has evidence of corrosion.,Sprinkler assembly has evidence of corrosion.,Life-Threatening,24 hours,Fail,24 hours
+Inside,Sprinkler Assembly,Sprinkler assembly has evidence of corrosion.,Sprinkler assembly has evidence of corrosion.,Life-Threatening,24 hours,Fail,24 hours
+Outside,Sprinkler Assembly,Sprinkler assembly has evidence of corrosion.,Sprinkler assembly has evidence of corrosion.,Life-Threatening,24 hours,Fail,24 hours
+Unit,Sprinkler Assembly,Sprinkler assembly has evidence of foreign material that is detrimental to performance.,"Foreign material covers 75% or more of the sprinkler assembly. 
+OR
+Foreign material covers 75% or more of the glass bulb. ",Life-Threatening,24 hours,Fail,24 hours
+Inside,Sprinkler Assembly,Sprinkler assembly has evidence of foreign material that is detrimental to performance.,"Foreign material covers 75% or more of the sprinkler assembly. 
+OR
+Foreign material covers 75% or more of the glass bulb. ",Life-Threatening,24 hours,Fail,24 hours
+Outside,Sprinkler Assembly,Sprinkler assembly has evidence of foreign material that is detrimental to performance.,"Foreign material covers 75% or more of the sprinkler assembly. 
+OR
+Foreign material covers 75% or more of the glass bulb. ",Life-Threatening,24 hours,Fail,24 hours
+Unit,Steps and Stairs,Tread is missing or damaged.,"Tread on a set of stairs is missing (i.e., evidence of prior installation, but now not present or is incomplete).
+OR
+Tread on a set of stairs is loose or unlevel.
+OR
+A portion of the tread nosing that is greater than 1 inch in depth or 4 inches wide is damaged or broken.",Moderate,30 days,Fail,30 days
+Inside,Steps and Stairs,Tread is missing or damaged.,"Tread on a set of stairs is missing (i.e., evidence of prior installation, but now not present or is incomplete).
+OR
+Tread on a set of stairs is loose or unlevel.
+OR
+A portion of the tread nosing that is greater than 1 inch in depth or 4 inches wide is damaged or broken.",Moderate,30 days,Fail,30 days
+Outside,Steps and Stairs,Tread is missing or damaged.,"Tread on a set of stairs is missing (i.e., evidence of prior installation, but now not present or is incomplete).
+OR
+Tread on a set of stairs is loose or unlevel.
+OR
+A portion of the tread nosing that is greater than 1 inch in depth or 4 inches wide is damaged or broken.",Moderate,30 days,Fail,30 days
+Unit,Steps and Stairs,Stringer is damaged.,"Stringer is damaged (i.e., visibly defective; impacts functionality).",Moderate,30 days,Fail,30 days
+Inside,Steps and Stairs,Stringer is damaged.,"Stringer is damaged (i.e., visibly defective; impacts functionality).",Moderate,30 days,Fail,30 days
+Outside,Steps and Stairs,Stringer is damaged.,"Stringer is damaged (i.e., visibly defective; impacts functionality).",Moderate,30 days,Fail,30 days
+Outside,Steps and Stairs,Step or stair is not functionally adequate. ,"Step or stair is not functionally adequate (i.e., may not allow for personal traffic from one level to the next). ",Moderate,30 days,Fail,30 days
+Unit,Structural System,Structural system exhibits signs of serious failure.,Structural system exhibits signs of serious failure and may threaten the resident’s safety.,Life-Threatening,24 hours,Fail,24 hours
+Inside,Structural System,Structural system exhibits signs of serious failure.,Structural system exhibits signs of serious failure and may threaten the resident’s safety.,Life-Threatening,24 hours,Fail,24 hours
+Outside,Structural System,Structural system exhibits signs of serious failure.,Structural system exhibits signs of serious failure and may threaten the resident’s safety.,Life-Threatening,24 hours,Fail,24 hours
+Unit,Toilet,"Only 1 toilet was installed, and it is missing.","Only 1 toilet was installed, and it is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Life-Threatening,24 hours,Fail,24 hours
+Inside,Toilet,"Only 1 toilet was installed, and it is missing.","Only 1 toilet was installed, and it is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Moderate,30 days,Fail,30 days
+Unit,Toilet,A toilet is missing and at least 1 toilet is installed elsewhere that is operational.,"A toilet is missing (i.e., evidence of prior installation, but now not present or is incomplete) and at least 1 toilet is installed elsewhere within the Unit that is operational.",Moderate,30 days,Fail,30 days
+Inside,Toilet,A toilet is missing and at least 1 toilet is installed elsewhere that is operational.,"A toilet is missing (i.e., evidence of prior installation, but now not present or is incomplete) and at least 1 toilet is installed elsewhere within the Unit that is operational.",Moderate,30 days,Fail,30 days
+Unit,Toilet,"Only 1 toilet was installed, and it is damaged or inoperable.","Only 1 toilet was installed, and it is damaged (i.e., visibly defective; impacts functionality).
+OR
+Only 1 toilet was installed, and it is inoperable (i.e., overall system is not meeting function or purpose; with or without visible damage).",Severe,24 hours,Fail,30 days
+Inside,Toilet,"Only 1 toilet was installed, and it is damaged or inoperable.","Only 1 toilet was installed, and it is damaged (i.e., visibly defective; impacts functionality).
+OR
+Only 1 toilet was installed, and it is inoperable (i.e., overall system is not meeting function or purpose; with or without visible damage).",Moderate,30 days,Fail,30 days
+Unit,Toilet,A toilet is damaged or inoperable and at least 1 toilet is installed elsewhere that is operational.,"A toilet is damaged (i.e., visibly defective; impacts functionality) and at least 1 toilet is installed elsewhere within the Unit that is operational.
+OR
+A toilet is inoperable (i.e., overall system is not meeting function or purpose; with or without visible damage) and at least 1 toilet is installed elsewhere within the Unit that is operational.",Moderate,30 days,Fail,30 days
+Inside,Toilet,A toilet is damaged or inoperable and at least 1 toilet is installed elsewhere that is operational.,"A toilet is damaged (i.e., visibly defective; impacts functionality) and at least 1 toilet is installed elsewhere within the Unit that is operational.
+OR
+A toilet is inoperable (i.e., overall system is not meeting function or purpose; with or without visible damage) and at least 1 toilet is installed elsewhere within the Unit that is operational.",Moderate,30 days,Fail,30 days
+Unit,Toilet,"Toilet component is damaged, inoperable, or missing such that it may limit the resident’s ability to safely discharge human waste.","Toilet component is damaged (i.e., visibly defective; impacts functionality) such that it may limit the resident’s ability to safely discharge human waste.
+OR
+Toilet component is inoperable (i.e., component is not meeting function or purpose; with or without visible damage) such that it may limit the resident’s ability to safely discharge human waste.
+OR
+Toilet component is missing (i.e., evidence of prior installation, but now not present or is incomplete) such that it may limit the resident’s ability to safely discharge human waste.",Moderate,30 days,Fail,30 days
+Inside,Toilet,"Toilet component is damaged, inoperable, or missing such that it may limit the resident’s ability to safely discharge human waste.","Toilet component is damaged (i.e., visibly defective; impacts functionality) such that it may limit the resident’s ability to safely discharge human waste.
+OR
+Toilet component is inoperable (i.e., component is not meeting function or purpose; with or without visible damage) such that it may limit the resident’s ability to safely discharge human waste.
+OR
+Toilet component is missing (i.e., evidence of prior installation, but now not present or is incomplete) such that it may limit the resident’s ability to safely discharge human waste.",Moderate,30 days,Fail,30 days
+Unit,Toilet,Toilet is not secured at the base.,Toilet is not secured at the base.,Moderate,30 days,Fail,30 days
+Inside,Toilet,Toilet is not secured at the base.,Toilet is not secured at the base.,Moderate,30 days,Fail,30 days
+Unit,Toilet,"Toilet component is damaged, inoperable, or missing and it does not limit the resident’s ability to discharge human waste.","Toilet component is damaged (i.e., visibly defective; impacts functionality) and it does not limit the resident’s ability to safely discharge human waste.
+OR
+Toilet component is inoperable (i.e., component is not meeting function or purpose; with or without visible damage) and it does not limit the resident’s ability to safely discharge human waste.
+OR
+Toilet component is missing (i.e., evidence of prior installation, but now not present or is incomplete) and it does not limit the resident’s ability to safely discharge human waste.",Low,60 days,Pass,N/A
+Inside,Toilet,"Toilet component is damaged, inoperable, or missing and it does not limit the resident’s ability to discharge human waste.","Toilet component is damaged (i.e., visibly defective; impacts functionality) and it does not limit the resident’s ability to safely discharge human waste.
+OR
+Toilet component is inoperable (i.e., component is not meeting function or purpose; with or without visible damage) and it does not limit the resident’s ability to safely discharge human waste.
+OR
+Toilet component is missing (i.e., evidence of prior installation, but now not present or is incomplete) and it does not limit the resident’s ability to safely discharge human waste.",Low,60 days,Pass,N/A
+Unit,Toilet,Toilet cannot be used in private.  ,Toilet cannot be used in private.  ,Moderate,30 days,Fail,30 days
+Inside,Toilet,Toilet cannot be used in private.  ,Toilet cannot be used in private.  ,Moderate,30 days,Fail,30 days
+Inside,Trash Chute,Chute door does not open or self-close and latch.,"Chute door does not open.
+OR
+Chute door does not self-close and latch.",Moderate,30 days,Fail,30 days
+Inside,Trash Chute,Chute is clogged.,Trash is overflowing or backed up inside the chute.,Moderate,30 days,Fail,30 days
+Unit,Trip Hazard,Trip hazard on walking surface.,"There is an abrupt change in vertical elevation or horizontal separation on any walking surface along the normal path of travel, consisting of the following criteria:
+- An unintended ¾-inch or greater vertical difference, OR 
+- An unintended 2-inch or greater horizontal separation that is perpendicular to the path of travel.",Moderate,30 days,Fail,30 days
+Inside,Trip Hazard,Trip hazard on walking surface.,"There is an abrupt change in vertical elevation or horizontal separation on any walking surface along the normal path of travel, consisting of the following criteria:
+- An unintended ¾-inch or greater vertical difference, OR 
+- An unintended 2-inch or greater horizontal separation that is perpendicular to the path of travel.",Moderate,30 days,Fail,30 days
+Outside,Trip Hazard,Trip hazard on walking surface.,"There is an abrupt change in vertical elevation or horizontal separation on any walking surface along the normal path of travel, consisting of the following criteria:
+- An unintended ¾-inch or greater vertical difference, OR 
+- An unintended 2-inch or greater horizontal separation that is perpendicular to the path of travel.",Moderate,30 days,Fail,30 days
+Unit,Ventilation,Exhaust system does not respond to the control switch.,Exhaust system does not respond to the control switch.,Moderate,30 days,Fail,30 days
+Inside,Ventilation,Exhaust system does not respond to the control switch.,Exhaust system does not respond to the control switch.,Moderate,30 days,Fail,30 days
+Unit,Ventilation,Exhaust system has restricted airflow.,Exhaust system is blocked such that airflow may be restricted.,Moderate,30 days,Fail,30 days
+Inside,Ventilation,Exhaust system has restricted airflow.,Exhaust system is blocked such that airflow may be restricted.,Moderate,30 days,Fail,30 days
+Unit,Ventilation,Exhaust system component is damaged or missing.,"Exhaust system component is damaged (i.e., visibly defective; impacts functionality). 
+OR
+Exhaust system component is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Moderate,30 days,Fail,30 days
+Inside,Ventilation,Exhaust system component is damaged or missing.,"Exhaust system component is damaged (i.e., visibly defective; impacts functionality). 
+OR
+Exhaust system component is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Moderate,30 days,Fail,30 days
+Unit,Ventilation,Bathroom does not have proper ventilation or dehumidification.,"An exhaust fan, window, or adequate means of ventilation or dehumidification is not present and operable.",Moderate,30 days,Fail,30 days
+Inside,Ventilation,Bathroom does not have proper ventilation or dehumidification.,"An exhaust fan, window, or adequate means of ventilation or dehumidification is not present and operable.",Moderate,30 days,Fail,30 days
+Outside,Wall - Exterior,Exterior wall covering has missing sections of at least 1 square foot per wall.,"Cumulatively, 1 square foot or more of an exterior wall covering is missing (i.e., evidence of prior installation, but now not present or is incomplete).",Moderate,30 days,Fail,30 days
+Outside,Wall - Exterior,Exterior wall has peeling paint of 10 square feet or more.,"Cumulatively, there is 10 square feet or more of peeling paint on an exterior wall built after 1978.",Moderate,30 days,Fail,30 days
+Outside,Wall - Exterior,Exterior wall component(s) is not functionally adequate. ,"Exterior wall component(s) is not functionally adequate (i.e., impacts the integrity of the wall assembly or building envelope, or does not allow exterior wall to separate the accommodation inside from that outside). ",Moderate,30 days,Fail,30 days
+Unit,Wall - Interior,Interior wall has a loose or detached surface covering.,Interior wall has a loose or detached surface covering.,Moderate,30 days,Fail,30 days
+Inside,Wall - Interior,Interior wall has a loose or detached surface covering.,Interior wall has a loose or detached surface covering.,Moderate,30 days,Fail,30 days
+Unit,Wall - Interior,Interior wall component(s) is not functionally adequate. ,"Interior wall component(s) is not functionally adequate (i.e., impacts the integrity of the interior wall or does not allow interior wall to provide vertical separation between rooms or spaces). ",Moderate,30 days,Fail,30 days
+Inside,Wall - Interior,Interior wall component(s) is not functionally adequate. ,"Interior wall component(s) is not functionally adequate (i.e., impacts the integrity of the interior wall or does not allow interior wall to provide vertical separation between rooms or spaces). ",Moderate,30 days,Fail,30 days
+Unit,Wall - Interior,Interior wall has a hole that is greater than 2 inches in diameter or there is an accumulation of holes that are cumulatively greater than 6 inches by 6 inches.,"A hole is greater than 2 inches in diameter.
+OR
+An accumulation of holes in any one wall that are cumulatively greater than 6 inches by 6 inches.",Moderate,30 days,Fail,30 days
+Inside,Wall - Interior,Interior wall has a hole that is greater than 2 inches in diameter or there is an accumulation of holes that are cumulatively greater than 6 inches by 6 inches.,"A hole is greater than 2 inches in diameter.
+OR
+An accumulation of holes in any one wall that are cumulatively greater than 6 inches by 6 inches.",Moderate,30 days,Fail,30 days
+Unit,Water Heater,"Temperature pressure relief (TPR) valve has an active leak or is obstructed or relief valve discharge piping is damaged, capped, has an upward slope, or is constructed of unsuitable material.","TPR valve has an active leak.
+OR
+TPR valve is obstructed such that the TPR valve is unable to be fully actuated. 
+OR
+Relief valve discharge piping is damaged (i.e., visibly defective; impacts functionality), capped, has an upward slope, or is constructed of unsuitable material.",Severe,24 hours,Fail,30 days
+Inside,Water Heater,"Temperature pressure relief (TPR) valve has an active leak or is obstructed or relief valve discharge piping is damaged, capped, has an upward slope, or is constructed of unsuitable material.","TPR valve has an active leak.
+OR
+TPR valve is obstructed such that the TPR valve is unable to be fully actuated. 
+OR
+Relief valve discharge piping is damaged (i.e., visibly defective; impacts functionality), capped, has an upward slope, or is constructed of unsuitable material.",Severe,24 hours,Fail,30 days
+Outside,Water Heater,"Temperature pressure relief (TPR) valve has an active leak or is obstructed or relief valve discharge piping is damaged, capped, has an upward slope, or is constructed of unsuitable material.","TPR valve has an active leak.
+OR
+TPR valve is obstructed such that the TPR valve is unable to be fully actuated. 
+OR
+Relief valve discharge piping is damaged (i.e., visibly defective; impacts functionality), capped, has an upward slope, or is constructed of unsuitable material.",Severe,24 hours,Fail,30 days
+Unit,Water Heater,No hot water.,Hot water does not dispense after the handle is engaged.,Severe,24 hours,Fail,30 days
+Inside,Water Heater,No hot water.,Hot water does not dispense after the handle is engaged.,Low,60 days,Pass,N/A
+Unit,Water Heater,The relief valve discharge piping is missing or terminates greater than 6 inches or less than 2 inches from waste receptor flood level.,"The relief valve discharge piping is missing (i.e., evidence of prior installation, but is now not present or is incomplete).
+OR
+The relief valve discharge piping terminates greater than 6 inches or less than 2 inches from waste receptor flood level.",Moderate,30 days,Fail,30 days
+Inside,Water Heater,The relief valve discharge piping is missing or terminates greater than 6 inches or less than 2 inches from waste receptor flood level.,"The relief valve discharge piping is missing (i.e., evidence of prior installation, but is now not present or is incomplete).
+OR
+The relief valve discharge piping terminates greater than 6 inches or less than 2 inches from waste receptor flood level.",Moderate,30 days,Fail,30 days
+Outside,Water Heater,The relief valve discharge piping is missing or terminates greater than 6 inches or less than 2 inches from waste receptor flood level.,"The relief valve discharge piping is missing (i.e., evidence of prior installation, but is now not present or is incomplete).
+OR
+The relief valve discharge piping terminates greater than 6 inches or less than 2 inches from waste receptor flood level.",Moderate,30 days,Fail,30 days
+Unit,Water Heater,"Chimney or flue piping is blocked, misaligned, or missing.","Chimney or flue piping is blocked, misaligned, or missing (i.e., evidence of prior installation, but now not present or is incomplete).",Life-Threatening,24 hours,Fail,24 hours
+Inside,Water Heater,"Chimney or flue piping is blocked, misaligned, or missing.","Chimney or flue piping is blocked, misaligned, or missing (i.e., evidence of prior installation, but now not present or is incomplete).",Life-Threatening,24 hours,Fail,24 hours
+Outside,Water Heater,"Chimney or flue piping is blocked, misaligned, or missing.","Chimney or flue piping is blocked, misaligned, or missing (i.e., evidence of prior installation, but now not present or is incomplete).",Life-Threatening,24 hours,Fail,24 hours
+Unit,Water Heater,"Gas shutoff valve is damaged, missing, or not installed.","Gas shutoff valve is damaged (i.e., visibly defective; impacts functionality).
+OR
+Gas shutoff valve is missing (i.e., evidence of prior installation, but is now not present or is incomplete).
+OR
+Gas shutoff valve is not installed (i.e., never installed, but should have been).",Life-Threatening,24 hours,Fail,24 hours
+Inside,Water Heater,"Gas shutoff valve is damaged, missing, or not installed.","Gas shutoff valve is damaged (i.e., visibly defective; impacts functionality).
+OR
+Gas shutoff valve is missing (i.e., evidence of prior installation, but is now not present or is incomplete).
+OR
+Gas shutoff valve is not installed (i.e., never installed, but should have been).",Life-Threatening,24 hours,Fail,24 hours
+Outside,Water Heater,"Gas shutoff valve is damaged, missing, or not installed.","Gas shutoff valve is damaged (i.e., visibly defective; impacts functionality).
+OR
+Gas shutoff valve is missing (i.e., evidence of prior installation, but is now not present or is incomplete).
+OR
+Gas shutoff valve is not installed (i.e., never installed, but should have been).",Life-Threatening,24 hours,Fail,24 hours
+Unit,Window,Window will not open or stay open.,"Window will not open.
+OR
+Once opened, window will not stay open without the use of a tool or item.",Moderate,30 days,Fail,30 days
+Inside,Window,Window will not open or stay open.,"Window will not open.
+OR
+Once opened, window will not stay open without the use of a tool or item.",Low,60 days,Pass,N/A
+Unit,Window,Window cannot be secured.,"Window cannot be secured (i.e., access controlled) by at least 1 installed lock.",Moderate,30 days,Fail,30 days
+Inside,Window,Window cannot be secured.,"Window cannot be secured (i.e., access controlled) by at least 1 installed lock.",Low,60 days,Pass,N/A
+Unit,Window,Window will not close.,The window will not close.,Severe,24 hours,Fail,30 days
+Inside,Window,Window will not close.,The window will not close.,Moderate,30 days,Fail,30 days
+Unit,Window,Window component is damaged or missing and the window is not functionally adequate.,"Any portion of a visually accessible (i.e., can be reasonably accessed and observed) window component is damaged (i.e., visibly defective) and the window is not functionally adequate (i.e., cannot protect from the elements, bugs, or debris, permit illumination within the interior space, or permit visual access between spaces). 
+OR
+Any portion of a visually accessible (i.e., can be reasonably accessed and observed) window component is missing (i.e., evidence of prior installation, but is now not present or is incomplete) and the window is not functionally adequate (i.e., cannot protect from the elements, bugs, or debris, permit illumination within the interior space, or permit visual access between spaces). 
+OR
+A visually accessible (i.e., can be reasonably accessed and observed) window screen has a hole, tear, or cut that is 1 inch or greater. ",Moderate,30 days,Fail,30 days
+Inside,Window,Window component is damaged or missing and the window is not functionally adequate.,"Any portion of a visually accessible (i.e., can be reasonably accessed and observed) window component is damaged (i.e., visibly defective) and the window is not functionally adequate (i.e., cannot protect from the elements, bugs, or debris, permit illumination within the interior space, or permit visual access between spaces). 
+OR
+Any portion of a visually accessible (i.e., can be reasonably accessed and observed) window component is missing (i.e., evidence of prior installation, but is now not present or is incomplete) and the window is not functionally adequate (i.e., cannot protect from the elements, bugs, or debris, permit illumination within the interior space, or permit visual access between spaces). 
+OR
+A visually accessible (i.e., can be reasonably accessed and observed) window screen has a hole, tear, or cut that is 1 inch or greater. ",Moderate,30 days,Fail,30 days
